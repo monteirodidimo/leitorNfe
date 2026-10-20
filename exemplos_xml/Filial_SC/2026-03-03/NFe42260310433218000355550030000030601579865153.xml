@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030601579865153" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3060</nNF><dhEmi>2026-03-03T12:36:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>26.03</qCom><uTrib>KG</uTrib><qTrib>26.03</qTrib><vProd>767.88</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>51.089</qCom><uTrib>KG</uTrib><qTrib>51.089</qTrib><vProd>725.46</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>68</qCom><uTrib>UN</uTrib><qTrib>68</qTrib><pesoL>33.32</pesoL><pesoB>34.0</pesoB><vProd>1428.00</vProd></prod></det>
+<total><ICMSTot><vNF>2921.34</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50202 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

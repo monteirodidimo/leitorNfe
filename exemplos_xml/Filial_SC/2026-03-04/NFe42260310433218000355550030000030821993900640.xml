@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030821993900640" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3082</nNF><dhEmi>2026-03-04T15:53:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>23511615000188</CNPJ><xNome>Supermercado Amostra Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>50.734</qTrib><vProd>218.16</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>68.202</qCom><uTrib>KG</uTrib><qTrib>68.202</qTrib><vProd>2011.96</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>25</qCom><uTrib>UN</uTrib><qTrib>25</qTrib><pesoL>3.43</pesoL><pesoB>3.5</pesoB><vProd>73.50</vProd></prod></det>
+<total><ICMSTot><vNF>2303.62</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50260 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030821993900640</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

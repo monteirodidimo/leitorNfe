@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030141435676156" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3014</nNF><dhEmi>2026-03-02T18:46:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>71</qCom><uTrib>UN</uTrib><qTrib>71</qTrib><pesoL>34.79</pesoL><pesoB>35.5</pesoB><vProd>1491.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>58</qCom><uTrib>UN</uTrib><qTrib>58</qTrib><vProd>170.52</vProd></prod></det>
+<total><ICMSTot><vNF>1661.52</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50050 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030141435676156</chNFe><cStat>110</cStat></infProt></protNFe></nfeProc>

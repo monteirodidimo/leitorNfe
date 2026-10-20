@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030711322591445" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3071</nNF><dhEmi>2026-03-04T06:28:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>89.181</qCom><uTrib>KG</uTrib><qTrib>89.181</qTrib><vProd>1266.37</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>12</qCom><uTrib>KG</uTrib><qTrib>291.728</qTrib><vProd>1254.43</vProd></prod></det>
+<total><ICMSTot><vNF>2520.80</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50229 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030711322591445</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

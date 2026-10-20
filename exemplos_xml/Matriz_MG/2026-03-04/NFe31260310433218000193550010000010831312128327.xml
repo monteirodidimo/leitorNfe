@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010831312128327" versao="4.00">
+<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>1</serie><nNF>1083</nNF><dhEmi>2026-03-04T16:38:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>41.524</qCom><uTrib>KG</uTrib><qTrib>41.524</qTrib><vProd>589.64</vProd></prod></det>
+<total><ICMSTot><vNF>589.64</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50281 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000010831312128327</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

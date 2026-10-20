@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000011291404575320" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1129</nNF><dhEmi>2026-03-05T10:53:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>23511615000188</CNPJ><xNome>Supermercado Amostra Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>34</qCom><uTrib>UN</uTrib><qTrib>34</qTrib><pesoL>4.665</pesoL><pesoB>4.76</pesoB><vProd>99.96</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>113.322</qCom><uTrib>KG</uTrib><qTrib>113.322</qTrib><vProd>1609.17</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>53.034</qCom><uTrib>KG</uTrib><qTrib>53.034</qTrib><vProd>2063.02</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>66</qCom><uTrib>UN</uTrib><qTrib>66</qTrib><pesoL>32.34</pesoL><pesoB>33.0</pesoB><vProd>1386.00</vProd></prod></det>
+<total><ICMSTot><vNF>5158.15</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50447 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000011291404575320</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020271180413918" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2027</nNF><dhEmi>2026-03-02T21:14:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>28</qCom><uTrib>UN</uTrib><qTrib>28</qTrib><pesoL>3.842</pesoL><pesoB>3.92</pesoB><vProd>82.32</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>87.612</qCom><uTrib>KG</uTrib><qTrib>87.612</qTrib><vProd>2584.55</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>89.433</qCom><uTrib>KG</uTrib><qTrib>89.433</qTrib><vProd>1269.95</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>12</qCom><uTrib>KG</uTrib><qTrib>203.647</qTrib><vProd>1710.63</vProd></prod></det>
+<total><ICMSTot><vNF>5647.45</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>403.843</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50094 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020271180413918</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

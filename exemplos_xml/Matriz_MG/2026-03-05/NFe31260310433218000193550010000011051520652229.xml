@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000011051520652229" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1105</nNF><dhEmi>2026-03-05T22:05:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>4</qCom><uTrib>KG</uTrib><qTrib>117.661</qTrib><vProd>600.07</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>45</qCom><uTrib>UN</uTrib><qTrib>45</qTrib><pesoL>6.174</pesoL><pesoB>6.3</pesoB><vProd>132.30</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>34.245</qCom><uTrib>KG</uTrib><qTrib>34.245</qTrib><vProd>1010.23</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>19</qCom><uTrib>KG</uTrib><qTrib>462.344</qTrib><vProd>1988.08</vProd></prod></det>
+<total><ICMSTot><vNF>3730.68</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50376 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000011051520652229</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

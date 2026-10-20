@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030041327755931" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3004</nNF><dhEmi>2026-03-02T19:33:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>89083863000183</CNPJ><xNome>Mercado Modelo Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>82.372</qCom><uTrib>KG</uTrib><qTrib>82.372</qTrib><vProd>2429.97</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>38</qCom><uTrib>UN</uTrib><qTrib>38</qTrib><vProd>798.00</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>28</qCom><uTrib>UN</uTrib><qTrib>28</qTrib><pesoL>3.842</pesoL><pesoB>3.92</pesoB><vProd>82.32</vProd></prod></det>
+<total><ICMSTot><vNF>3310.29</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>90.607</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50022 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030041327755931</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

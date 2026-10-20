@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030681252168047" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3068</nNF><dhEmi>2026-03-03T13:30:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>64.146</qCom><uTrib>KG</uTrib><qTrib>64.146</qTrib><vProd>2495.28</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>17</qCom><uTrib>KG</uTrib><qTrib>279.584</qTrib><vProd>2348.51</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>10.043</qCom><uTrib>KG</uTrib><qTrib>10.043</qTrib><vProd>142.61</vProd></prod></det>
+<total><ICMSTot><vNF>4986.40</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50219 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030681252168047</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

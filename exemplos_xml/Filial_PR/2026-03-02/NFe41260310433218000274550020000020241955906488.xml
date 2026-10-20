@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020241955906488" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2024</nNF><dhEmi>2026-03-02T19:08:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>96.088</qCom><uTrib>KG</uTrib><qTrib>96.088</qTrib><vProd>2834.60</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>40</qCom><uTrib>UN</uTrib><qTrib>40</qTrib><vProd>117.60</vProd></prod></det>
+<total><ICMSTot><vNF>2952.20</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>100.892</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50089 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020241955906488</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

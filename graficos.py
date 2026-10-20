@@ -56,7 +56,7 @@ def desenhar_notas_por_hora(eixo, por_hora, todas_as_filiais):
     eixo.set_xticks(range(24))
     eixo.set_xticklabels([f"{hora:02d}h" for hora in range(24)], fontsize=8)
     eixo.set_xlim(-0.5, 23.5)
-    eixo.set_ylim(0, max(altura) * 1.25 + 1)  # sobra espaco em cima para a legenda
+    eixo.set_ylim(0, max(altura) * 1.1 + 1)
     eixo.yaxis.set_major_locator(MaxNLocator(integer=True))  # nao existe "meia nota"
     eixo.set_ylabel("Notas")
     eixo.spines[["top", "right"]].set_visible(False)
@@ -64,4 +64,6 @@ def desenhar_notas_por_hora(eixo, por_hora, todas_as_filiais):
     if sum(altura) == 0:
         eixo.text(11.5, 0.5, "Nenhuma nota válida neste período", ha="center", color="gray")
     else:
-        eixo.legend(loc="upper center", ncol=len(por_hora.columns), frameon=False)
+        # Legenda embaixo do grafico, para nunca cobrir as barras (ate 4 filiais por linha).
+        colunas = min(len(por_hora.columns), 4)
+        eixo.legend(loc="upper center", bbox_to_anchor=(0.5, -0.15), ncol=colunas, frameon=False)

@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020541227809054" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2054</nNF><dhEmi>2026-03-03T15:46:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>85.664</qCom><uTrib>KG</uTrib><qTrib>85.664</qTrib><vProd>3332.33</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>20.259</qCom><uTrib>KG</uTrib><qTrib>20.259</qTrib><vProd>287.68</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>5</qCom><uTrib>KG</uTrib><qTrib>126.585</qTrib><vProd>544.32</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>100.275</qCom><uTrib>KG</uTrib><qTrib>100.275</qTrib><vProd>2958.11</vProd></prod></det>
+<total><ICMSTot><vNF>7122.44</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50145 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020541227809054</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

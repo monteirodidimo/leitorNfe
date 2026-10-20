@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030901500561461" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3090</nNF><dhEmi>2026-03-04T17:17:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>52.95</qCom><uTrib>KG</uTrib><qTrib>52.95</qTrib><vProd>1562.03</vProd></prod></det>
+<total><ICMSTot><vNF>1562.03</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>55.598</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50291 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030901500561461</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

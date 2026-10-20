@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000031491561462160" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3149</nNF><dhEmi>2026-03-05T14:12:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>23511615000188</CNPJ><xNome>Supermercado Amostra Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>26.776</qCom><uTrib>KG</uTrib><qTrib>26.776</qTrib><vProd>789.89</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>59.708</qCom><uTrib>KG</uTrib><qTrib>59.708</qTrib><vProd>847.85</vProd></prod></det>
+<total><ICMSTot><vNF>1637.74</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50436 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000031491561462160</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

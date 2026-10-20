@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000031551721019321" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3155</nNF><dhEmi>2026-03-05T14:51:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>19600133000127</CNPJ><xNome>Restaurante Sabor Exemplo Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>48</qCom><uTrib>UN</uTrib><qTrib>48</qTrib><pesoL>6.586</pesoL><pesoB>6.72</pesoB><vProd>141.12</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>99.694</qCom><uTrib>KG</uTrib><qTrib>99.694</qTrib><vProd>1415.65</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>149.235</qTrib><vProd>641.71</vProd></prod></det>
+<total><ICMSTot><vNF>2198.48</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>268.431</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50452 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000031551721019321</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

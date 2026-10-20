@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010321213184645" versao="4.00">
+<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>1</serie><nNF>1032</nNF><dhEmi>2026-03-02T12:51:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>30</qCom><uTrib>UN</uTrib><qTrib>30</qTrib><pesoL>4.116</pesoL><pesoB>4.2</pesoB><vProd>88.20</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>163.885</qTrib><vProd>1376.63</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>53</qCom><uTrib>UN</uTrib><qTrib>53</qTrib><vProd>1113.00</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>50.868</qTrib><vProd>218.73</vProd></prod></det>
+<total><ICMSTot><vNF>2796.56</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50073 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000010321213184645</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

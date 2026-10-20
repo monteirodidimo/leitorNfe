@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020811812023562" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2081</nNF><dhEmi>2026-03-04T06:33:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>81.928</qCom><uTrib>KG</uTrib><qTrib>81.928</qTrib><vProd>2416.88</vProd></prod></det>
+<total><ICMSTot><vNF>2416.88</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50218 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

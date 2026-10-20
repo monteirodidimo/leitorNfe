@@ -13,15 +13,26 @@ from graficos import desenhar_notas_por_hora, formatar_linha, nome_curto
 from relatorio import notas_por_hora, resumo
 
 CABECALHO = ["", "Faturamento", "Peso", "Pedidos", "Fat. diurno", "Fat. noturno"]
+LARGURAS = [0.30, 0.14, 0.14, 0.14, 0.14, 0.14]  # a primeira coluna (nome) e mais larga
+ALTURA_LINHA = 0.024  # altura de cada linha das tabelas, em fracao da pagina
 
 
-def desenhar_tabela(eixo, titulo, linhas):
+def desenhar_tabela(figura, topo, titulo, linhas):
+    """Desenha uma tabela abaixo da posicao 'topo' e devolve onde ela termina.
+
+    A altura cresce com o numero de linhas, entao cabem quantas filiais houver
+    sem invadir o grafico.
+    """
+    altura = ALTURA_LINHA * (len(linhas) + 1)  # +1 do cabecalho
+    eixo = figura.add_axes([0.06, topo - altura, 0.88, altura])
     eixo.axis("off")
     eixo.set_title(titulo, loc="left", fontsize=11, fontweight="bold")
-    tabela = eixo.table(cellText=linhas, colLabels=CABECALHO, loc="upper center", cellLoc="right")
+
+    tabela = eixo.table(
+        cellText=linhas, colLabels=CABECALHO, colWidths=LARGURAS, cellLoc="right", bbox=[0, 0, 1, 1]
+    )
     tabela.auto_set_font_size(False)
     tabela.set_fontsize(8)
-    tabela.scale(1, 1.6)
     for (linha, coluna), celula in tabela.get_celld().items():
         celula.set_edgecolor("#cccccc")
         if linha == 0:
@@ -29,6 +40,7 @@ def desenhar_tabela(eixo, titulo, linhas):
             celula.set_text_props(fontweight="bold")
         if coluna == 0:
             celula.set_text_props(ha="left")
+    return topo - altura
 
 
 def gerar_pdf(notas, caminho, descricao_filtros, todas_as_filiais):
@@ -46,16 +58,16 @@ def gerar_pdf(notas, caminho, descricao_filtros, todas_as_filiais):
     figura.text(0.06, 0.935, descricao_filtros, fontsize=10, color="gray")
     figura.text(0.06, 0.915, "Somente notas válidas (sem canceladas, inutilizadas e denegadas)", fontsize=8)
 
-    eixo_total = figura.add_axes([0.06, 0.80, 0.88, 0.09])
-    desenhar_tabela(eixo_total, "Total do período", [["Total"] + formatar_linha(tabela.loc["Total"])])
+    # Cada bloco comeca um pouco abaixo de onde o anterior terminou (0.05 = espaco do titulo).
+    total = [["Total"] + formatar_linha(tabela.loc["Total"])]
+    fim = desenhar_tabela(figura, 0.87, "Total do período", total)
 
-    linhas_filiais = []
-    for filial, linha in tabela.drop(index="Total").iterrows():
-        linhas_filiais.append([nome_curto(filial)] + formatar_linha(linha))
-    eixo_filiais = figura.add_axes([0.06, 0.66, 0.88, 0.12])
-    desenhar_tabela(eixo_filiais, "Por filial", linhas_filiais or [["-"] * 6])
+    filiais = [
+        [nome_curto(nome)] + formatar_linha(linha) for nome, linha in tabela.drop(index="Total").iterrows()
+    ]
+    fim = desenhar_tabela(figura, fim - 0.05, "Por filial", filiais or [["-"] * 6])
 
-    eixo_grafico = figura.add_axes([0.08, 0.40, 0.86, 0.22])
+    eixo_grafico = figura.add_axes([0.08, fim - 0.30, 0.86, 0.24])
     desenhar_notas_por_hora(eixo_grafico, notas_por_hora(notas), todas_as_filiais)
     # o titulo vem depois: desenhar_notas_por_hora limpa o eixo antes de desenhar
     eixo_grafico.set_title("Notas emitidas por hora", loc="left", fontsize=11, fontweight="bold")

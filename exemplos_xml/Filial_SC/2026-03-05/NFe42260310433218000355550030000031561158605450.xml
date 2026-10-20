@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000031561158605450" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3156</nNF><dhEmi>2026-03-05T13:42:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>23511615000188</CNPJ><xNome>Supermercado Amostra Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>18</qCom><uTrib>KG</uTrib><qTrib>293.291</qTrib><vProd>2463.64</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>3</qCom><uTrib>KG</uTrib><qTrib>75.891</qTrib><vProd>326.33</vProd></prod></det>
+<total><ICMSTot><vNF>2789.97</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50453 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000031561158605450</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

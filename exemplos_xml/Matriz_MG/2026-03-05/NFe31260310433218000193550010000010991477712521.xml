@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010991477712521" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1099</nNF><dhEmi>2026-03-05T04:50:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>5</qCom><uTrib>KG</uTrib><qTrib>125.025</qTrib><vProd>537.61</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>100.631</qCom><uTrib>KG</uTrib><qTrib>100.631</qTrib><vProd>2968.61</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>96.437</qCom><uTrib>KG</uTrib><qTrib>96.437</qTrib><vProd>3751.40</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>81</qCom><uTrib>UN</uTrib><qTrib>81</qTrib><vProd>1701.00</vProd></prod></det>
+<total><ICMSTot><vNF>8958.62</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50355 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000010991477712521</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

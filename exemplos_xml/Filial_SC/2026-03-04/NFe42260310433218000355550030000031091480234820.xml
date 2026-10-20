@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000031091480234820" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3109</nNF><dhEmi>2026-03-04T23:44:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>11.541</qCom><uTrib>KG</uTrib><qTrib>11.541</qTrib><vProd>340.46</vProd></prod></det>
+<total><ICMSTot><vNF>340.46</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50320 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

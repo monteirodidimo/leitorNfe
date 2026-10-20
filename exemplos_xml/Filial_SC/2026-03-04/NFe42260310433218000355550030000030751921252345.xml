@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030751921252345" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3075</nNF><dhEmi>2026-03-04T02:14:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>16</qCom><uTrib>KG</uTrib><qTrib>470.747</qTrib><vProd>2400.81</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>81</qCom><uTrib>UN</uTrib><qTrib>81</qTrib><vProd>238.14</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>9</qCom><uTrib>KG</uTrib><qTrib>152.853</qTrib><vProd>1283.97</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>19</qCom><uTrib>KG</uTrib><qTrib>470.564</qTrib><vProd>2023.43</vProd></prod></det>
+<total><ICMSTot><vNF>5946.35</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50238 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030751921252345</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

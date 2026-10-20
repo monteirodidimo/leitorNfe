@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030501601425053" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3050</nNF><dhEmi>2026-03-03T08:14:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>100.38</qTrib><vProd>843.19</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>55.24</qCom><uTrib>KG</uTrib><qTrib>55.24</qTrib><vProd>784.41</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>78.516</qCom><uTrib>KG</uTrib><qTrib>78.516</qTrib><vProd>2316.22</vProd></prod></det>
+<total><ICMSTot><vNF>3943.82</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50172 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030501601425053</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

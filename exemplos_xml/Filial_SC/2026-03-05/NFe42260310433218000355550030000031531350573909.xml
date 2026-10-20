@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000031531350573909" versao="4.00">
+<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>3</serie><nNF>3153</nNF><dhEmi>2026-03-05T07:27:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>17</qCom><uTrib>KG</uTrib><qTrib>273.263</qTrib><vProd>2295.41</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>11.607</qCom><uTrib>KG</uTrib><qTrib>11.607</qTrib><vProd>342.41</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>76</qCom><uTrib>UN</uTrib><qTrib>76</qTrib><pesoL>37.24</pesoL><pesoB>38.0</pesoB><vProd>1596.00</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>42.579</qCom><uTrib>KG</uTrib><qTrib>42.579</qTrib><vProd>604.62</vProd></prod></det>
+<total><ICMSTot><vNF>4838.44</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50450 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000031531350573909</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

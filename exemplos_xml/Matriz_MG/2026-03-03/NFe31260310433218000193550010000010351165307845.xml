@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010351165307845" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1035</nNF><dhEmi>2026-03-03T02:01:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>19600133000127</CNPJ><xNome>Restaurante Sabor Exemplo Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>14</qCom><uTrib>KG</uTrib><qTrib>225.926</qTrib><vProd>1897.78</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>43</qCom><uTrib>UN</uTrib><qTrib>43</qTrib><vProd>126.42</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>92.844</qCom><uTrib>KG</uTrib><qTrib>92.844</qTrib><vProd>3611.63</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>12</qCom><uTrib>KG</uTrib><qTrib>291.814</qTrib><vProd>1254.80</vProd></prod></det>
+<total><ICMSTot><vNF>6890.63</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>641.113</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50096 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000010351165307845</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

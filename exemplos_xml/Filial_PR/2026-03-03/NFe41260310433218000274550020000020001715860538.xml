@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020001715860538" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2000</nNF><dhEmi>2026-03-03T06:58:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>19</qCom><uTrib>KG</uTrib><qTrib>312.154</qTrib><vProd>2622.09</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>19</qCom><uTrib>KG</uTrib><qTrib>472.133</qTrib><vProd>2030.17</vProd></prod></det>
+<total><ICMSTot><vNF>4652.26</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>823.501</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50002 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020001715860538</chNFe><cStat>110</cStat></infProt></protNFe></nfeProc>

@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020231921247654" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2023</nNF><dhEmi>2026-03-02T10:39:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>15</qCom><uTrib>KG</uTrib><qTrib>441.162</qTrib><vProd>2249.93</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>87.038</qCom><uTrib>KG</uTrib><qTrib>87.038</qTrib><vProd>3385.78</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>119.685</qCom><uTrib>KG</uTrib><qTrib>119.685</qTrib><vProd>3530.71</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>97</qCom><uTrib>UN</uTrib><qTrib>97</qTrib><vProd>2037.00</vProd></prod></det>
+<total><ICMSTot><vNF>11203.42</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50088 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020231921247654</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

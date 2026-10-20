@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030261806065037" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3026</nNF><dhEmi>2026-03-02T08:09:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>19600133000127</CNPJ><xNome>Restaurante Sabor Exemplo Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>34.17</qCom><uTrib>KG</uTrib><qTrib>34.17</qTrib><vProd>1329.21</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>1</qCom><uTrib>KG</uTrib><qTrib>24.786</qTrib><vProd>106.58</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>3</qCom><uTrib>KG</uTrib><qTrib>89.162</qTrib><vProd>454.73</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>89.288</qCom><uTrib>KG</uTrib><qTrib>89.288</qTrib><vProd>1267.89</vProd></prod></det>
+<total><ICMSTot><vNF>3158.41</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50082 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

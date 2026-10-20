@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010341593044691" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1034</nNF><dhEmi>2026-03-02T15:29:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>67.73</qCom><uTrib>KG</uTrib><qTrib>67.73</qTrib><vProd>1998.04</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>322.131</qTrib><vProd>1642.87</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>183.252</qTrib><vProd>1539.32</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>49</qCom><uTrib>UN</uTrib><qTrib>49</qTrib><pesoL>6.723</pesoL><pesoB>6.86</pesoB><vProd>144.06</vProd></prod></det>
+<total><ICMSTot><vNF>5324.29</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50085 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000010341593044691</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000011321914686251" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1132</nNF><dhEmi>2026-03-05T20:18:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>89083863000183</CNPJ><xNome>Mercado Modelo Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>31</qCom><uTrib>UN</uTrib><qTrib>31</qTrib><pesoL>15.19</pesoL><pesoB>15.5</pesoB><vProd>651.00</vProd></prod></det>
+<total><ICMSTot><vNF>651.00</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50456 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000011321914686251</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

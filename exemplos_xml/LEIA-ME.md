@@ -14,6 +14,7 @@ exemplos_xml/
 │   │   └── Inu<chave>.xml     inutilização do número dessa nota
 │   └── ...
 ├── Filial_PR/             mesma organização da matriz
+├── Filial_SC/             mesma organização da matriz
 └── copias_duplicadas/     cópias de notas que já estão em outra pasta
                            (o programa deve contar cada nota uma vez só)
 ```

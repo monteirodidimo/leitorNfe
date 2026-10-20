@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020711352812627" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2071</nNF><dhEmi>2026-03-04T01:05:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>103.591</qCom><uTrib>KG</uTrib><qTrib>103.591</qTrib><vProd>4029.69</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>86</qCom><uTrib>UN</uTrib><qTrib>86</qTrib><pesoL>42.14</pesoL><pesoB>43.0</pesoB><vProd>1806.00</vProd></prod></det>
+<total><ICMSTot><vNF>5835.69</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50190 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020711352812627</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

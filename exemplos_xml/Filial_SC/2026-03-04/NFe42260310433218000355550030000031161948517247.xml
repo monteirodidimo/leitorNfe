@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000031161948517247" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3116</nNF><dhEmi>2026-03-04T21:42:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>20</qCom><uTrib>UN</uTrib><qTrib>20</qTrib><pesoL>2.744</pesoL><pesoB>2.8</pesoB><vProd>58.80</vProd></prod></det>
+<total><ICMSTot><vNF>58.80</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>2.94</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50330 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000031161948517247</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030581292232203" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3058</nNF><dhEmi>2026-03-03T14:48:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>43.252</qCom><uTrib>KG</uTrib><qTrib>43.252</qTrib><vProd>1275.93</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>177.985</qTrib><vProd>907.72</vProd></prod></det>
+<total><ICMSTot><vNF>2183.65</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>232.299</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50194 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030581292232203</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

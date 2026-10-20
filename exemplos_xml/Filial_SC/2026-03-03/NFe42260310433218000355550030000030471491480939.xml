@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000030471491480939" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3047</nNF><dhEmi>2026-03-03T11:02:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>8</qCom><uTrib>KG</uTrib><qTrib>194.896</qTrib><vProd>838.05</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>28.312</qCom><uTrib>KG</uTrib><qTrib>28.312</qTrib><vProd>402.03</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>19</qCom><uTrib>KG</uTrib><qTrib>556.627</qTrib><vProd>2838.80</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>23</qCom><uTrib>UN</uTrib><qTrib>23</qTrib><pesoL>11.27</pesoL><pesoB>11.5</pesoB><vProd>483.00</vProd></prod></det>
+<total><ICMSTot><vNF>4561.88</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50163 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000030471491480939</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010571517349082" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1057</nNF><dhEmi>2026-03-04T01:10:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>5</qCom><uTrib>KG</uTrib><qTrib>148.204</qTrib><vProd>755.84</vProd></prod></det>
+<total><ICMSTot><vNF>755.84</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50184 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

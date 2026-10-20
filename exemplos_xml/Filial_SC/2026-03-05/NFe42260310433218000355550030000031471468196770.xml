@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe42260310433218000355550030000031471468196770" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3147</nNF><dhEmi>2026-03-05T15:55:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
+<dest><CNPJ>23511615000188</CNPJ><xNome>Supermercado Amostra Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>18</qCom><uTrib>KG</uTrib><qTrib>303.827</qTrib><vProd>2552.15</vProd></prod></det>
+<total><ICMSTot><vNF>2552.15</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>319.018</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50429 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>42260310433218000355550030000031471468196770</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

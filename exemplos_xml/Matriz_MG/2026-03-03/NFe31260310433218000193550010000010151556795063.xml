@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010151556795063" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1015</nNF><dhEmi>2026-03-03T00:24:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>14.845</qCom><uTrib>KG</uTrib><qTrib>14.845</qTrib><vProd>577.47</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>14</qCom><uTrib>KG</uTrib><qTrib>230.842</qTrib><vProd>1939.07</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>92.189</qCom><uTrib>KG</uTrib><qTrib>92.189</qTrib><vProd>2719.58</vProd></prod></det>
+<total><ICMSTot><vNF>5236.12</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50033 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000010151556795063</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

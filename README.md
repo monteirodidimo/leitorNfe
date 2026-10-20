@@ -10,7 +10,7 @@ Relatório exportado em PDF ([arquivo de exemplo](docs/exemplo_relatorio.pdf)):
 ![Relatório em PDF](docs/relatorio_pdf.png)
 
 > **Os dados deste repositório são fictícios.** A pasta [`exemplos_xml`](exemplos_xml/LEIA-ME.md)
-> tem 436 XMLs de uma distribuidora de alimentos inventada (matriz em MG e filial no PR). Nenhum
+> tem 518 XMLs de uma distribuidora de alimentos inventada (matriz em MG e filiais no PR e em SC). Nenhum
 > dado real de empresa ou cliente foi usado.
 
 ## O problema

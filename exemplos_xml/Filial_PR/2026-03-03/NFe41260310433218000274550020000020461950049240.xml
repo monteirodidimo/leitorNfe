@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020461950049240" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2046</nNF><dhEmi>2026-03-03T09:22:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>58</qCom><uTrib>UN</uTrib><qTrib>58</qTrib><pesoL>28.42</pesoL><pesoB>29.0</pesoB><vProd>1218.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>86</qCom><uTrib>UN</uTrib><qTrib>86</qTrib><pesoL>11.799</pesoL><pesoB>12.04</pesoB><vProd>252.84</vProd></prod></det>
+<total><ICMSTot><vNF>1470.84</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50134 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020461950049240</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

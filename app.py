@@ -15,7 +15,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 
 from banco import atualizar_banco
-from graficos import desenhar_notas_por_hora, formatar_linha
+from graficos import desenhar_notas_por_hora, formatar_linha, nome_curto
 from pdf import gerar_pdf
 from relatorio import carregar_notas, exportar, filtrar, notas_por_hora, resumo
 
@@ -66,8 +66,8 @@ class Aplicativo:
         self.criar_area_filtros()
         self.criar_area_totais()
         self.criar_tabela_filiais()
+        self.criar_botoes_exportar()  # antes do grafico, para ficar sempre visivel no rodape
         self.criar_grafico()
-        self.criar_botoes_exportar()
 
         if os.path.exists(CAMINHO_BANCO):
             self.carregar_e_mostrar()
@@ -154,7 +154,7 @@ class Aplicativo:
 
     def criar_botoes_exportar(self):
         quadro = ttk.Frame(self.janela, padding=(10, 0, 10, 10))
-        quadro.pack(fill="x")
+        quadro.pack(side="bottom", fill="x")
         ttk.Label(quadro, text="Exportar o período filtrado:").pack(side="left")
         ttk.Button(quadro, text="CSV", command=lambda: self.exportar(".csv")).pack(side="left", padx=5)
         ttk.Button(quadro, text="Excel", command=lambda: self.exportar(".xlsx")).pack(side="left")
@@ -262,9 +262,10 @@ class Aplicativo:
 
         self.tabela.delete(*self.tabela.get_children())
         filiais = tabela.drop(index="Total")
-        self.tabela.configure(height=max(2, len(filiais)))
+        # Mostra ate 6 filiais; se houver mais, a tabela rola com a roda do mouse.
+        self.tabela.configure(height=min(max(2, len(filiais)), 6))
         for nome, linha in filiais.iterrows():
-            self.tabela.insert("", "end", values=[nome] + formatar_linha(linha))
+            self.tabela.insert("", "end", values=[nome_curto(nome)] + formatar_linha(linha))
 
         todas_as_filiais = list(self.notas["filial"].unique())
         desenhar_notas_por_hora(self.eixo, notas_por_hora(self.notas_filtradas), todas_as_filiais)

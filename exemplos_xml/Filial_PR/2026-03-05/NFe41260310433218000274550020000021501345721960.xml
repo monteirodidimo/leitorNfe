@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000021501345721960" versao="4.00">
+<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>2</serie><nNF>2150</nNF><dhEmi>2026-03-05T10:40:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>53.021</qCom><uTrib>KG</uTrib><qTrib>53.021</qTrib><vProd>1564.12</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>83</qCom><uTrib>UN</uTrib><qTrib>83</qTrib><pesoL>40.67</pesoL><pesoB>41.5</pesoB><vProd>1743.00</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>57.023</qCom><uTrib>KG</uTrib><qTrib>57.023</qTrib><vProd>2218.19</vProd></prod></det>
+<total><ICMSTot><vNF>5525.31</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50416 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000021501345721960</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>
