@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010661235421273" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1066</nNF><dhEmi>2026-03-03T21:08:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>19600133000127</CNPJ><xNome>Restaurante Sabor Exemplo Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>59.648</qTrib><vProd>304.20</vProd></prod></det>
+<total><ICMSTot><vNF>304.20</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>62.63</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50114 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000010661235421273</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

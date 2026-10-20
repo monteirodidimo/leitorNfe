@@ -1,0 +1,2802 @@
+{
+ "31260310433218000193550010000010001319315111": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 11:10:00",
+  "status": "valida",
+  "peso_kg": 49.187,
+  "valor": 505.5
+ },
+ "31260310433218000193550010000010011962821170": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 13:45:00",
+  "status": "valida",
+  "peso_kg": 1014.223,
+  "valor": 4794.17
+ },
+ "31260310433218000193550010000010021942143823": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 09:36:00",
+  "status": "valida",
+  "peso_kg": 638.625,
+  "valor": 7909.14
+ },
+ "41260310433218000274550020000020001104355780": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 03:44:00",
+  "status": "valida",
+  "peso_kg": 76.91,
+  "valor": 4179.84
+ },
+ "31260310433218000193550010000010031126141245": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 15:20:00",
+  "status": "valida",
+  "peso_kg": 661.025,
+  "valor": 5358.85
+ },
+ "31260310433218000193550010000010041667926120": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 06:21:00",
+  "status": "cancelada",
+  "peso_kg": 705.78,
+  "valor": 4250.46
+ },
+ "31260310433218000193550010000010051179019031": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 06:46:00",
+  "status": "valida",
+  "peso_kg": 75.064,
+  "valor": 322.78
+ },
+ "41260310433218000274550020000020011646346637": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 04:04:00",
+  "status": "valida",
+  "peso_kg": 170.576,
+  "valor": 1993.72
+ },
+ "31260310433218000193550010000010061231410872": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 05:23:00",
+  "status": "valida",
+  "peso_kg": 111.532,
+  "valor": 3290.19
+ },
+ "31260310433218000193550010000010071624015216": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 20:02:00",
+  "status": "valida",
+  "peso_kg": 614.749,
+  "valor": 4124.04
+ },
+ "31260310433218000193550010000010081349410048": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 08:22:00",
+  "status": "valida",
+  "peso_kg": 114.37,
+  "valor": 4576.09
+ },
+ "31260310433218000193550010000010091420358861": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 12:21:00",
+  "status": "valida",
+  "peso_kg": 240.913,
+  "valor": 6384.34
+ },
+ "31260310433218000193550010000010101688121373": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 22:41:00",
+  "status": "valida",
+  "peso_kg": 67.738,
+  "valor": 569.0
+ },
+ "31260310433218000193550010000010111951259773": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 10:28:00",
+  "status": "valida",
+  "peso_kg": 339.484,
+  "valor": 3423.39
+ },
+ "31260310433218000193550010000010121832278895": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 22:32:00",
+  "status": "valida",
+  "peso_kg": 115.883,
+  "valor": 3512.3
+ },
+ "31260310433218000193550010000010131645430490": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 05:33:00",
+  "status": "valida",
+  "peso_kg": 129.239,
+  "valor": 2696.99
+ },
+ "31260310433218000193550010000010141613438808": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 21:50:00",
+  "status": "valida",
+  "peso_kg": 465.441,
+  "valor": 3093.3
+ },
+ "41260310433218000274550020000020021819696577": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 13:49:00",
+  "status": "valida",
+  "peso_kg": 99.479,
+  "valor": 835.62
+ },
+ "41260310433218000274550020000020031255217140": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 15:43:00",
+  "status": "valida",
+  "peso_kg": 335.534,
+  "valor": 6217.43
+ },
+ "31260310433218000193550010000010151936385037": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 12:38:00",
+  "status": "valida",
+  "peso_kg": 277.29,
+  "valor": 2329.24
+ },
+ "41260310433218000274550020000020041926130130": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 09:58:00",
+  "status": "valida",
+  "peso_kg": 162.131,
+  "valor": 1361.9
+ },
+ "41260310433218000274550020000020051327755938": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 19:33:00",
+  "status": "valida",
+  "peso_kg": 86.292,
+  "valor": 3310.29
+ },
+ "31260310433218000193550010000010161763541803": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 13:33:00",
+  "status": "valida",
+  "peso_kg": 94.518,
+  "valor": 2788.28
+ },
+ "31260310433218000193550010000010171996007661": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 14:55:00",
+  "status": "valida",
+  "peso_kg": 418.798,
+  "valor": 3366.17
+ },
+ "41260310433218000274550020000020061208149500": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 05:13:00",
+  "status": "valida",
+  "peso_kg": 410.013,
+  "valor": 4611.79
+ },
+ "41260310433218000274550020000020071500791117": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 13:00:00",
+  "status": "valida",
+  "peso_kg": 562.495,
+  "valor": 5496.33
+ },
+ "41260310433218000274550020000020081136375750": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 18:18:00",
+  "status": "valida",
+  "peso_kg": 44.886,
+  "valor": 1305.1
+ },
+ "41260310433218000274550020000020091731235150": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 21:23:00",
+  "status": "valida",
+  "peso_kg": 201.802,
+  "valor": 867.75
+ },
+ "31260310433218000193550010000010181269410927": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 11:04:00",
+  "status": "valida",
+  "peso_kg": 150.953,
+  "valor": 772.58
+ },
+ "31260310433218000193550010000010191603728478": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 16:49:00",
+  "status": "valida",
+  "peso_kg": 213.268,
+  "valor": 3572.73
+ },
+ "31260310433218000193550010000010201987878910": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 03:18:00",
+  "status": "valida",
+  "peso_kg": 473.997,
+  "valor": 6207.14
+ },
+ "41260310433218000274550020000020101748939369": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 16:11:00",
+  "status": "cancelada",
+  "peso_kg": 165.946,
+  "valor": 3449.23
+ },
+ "31260310433218000193550010000010211556795060": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 00:24:00",
+  "status": "valida",
+  "peso_kg": 337.876,
+  "valor": 5236.12
+ },
+ "31260310433218000193550010000010221510982779": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 00:09:00",
+  "status": "valida",
+  "peso_kg": 541.945,
+  "valor": 3909.57
+ },
+ "31260310433218000193550010000010231471111510": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 04:15:00",
+  "status": "valida",
+  "peso_kg": 200.819,
+  "valor": 1826.71
+ },
+ "31260310433218000193550010000010241758846237": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 19:50:00",
+  "status": "valida",
+  "peso_kg": 102.029,
+  "valor": 1948.28
+ },
+ "41260310433218000274550020000020111258982990": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 00:14:00",
+  "status": "valida",
+  "peso_kg": 619.759,
+  "valor": 4378.47
+ },
+ "31260310433218000193550010000010251986411640": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 11:30:00",
+  "status": "valida",
+  "peso_kg": 5.308,
+  "valor": 353.57
+ },
+ "31260310433218000193550010000010261938938657": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 11:30:00",
+  "status": "valida",
+  "peso_kg": 102.723,
+  "valor": 1476.75
+ },
+ "41260310433218000274550020000020121640237783": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 18:56:00",
+  "status": "valida",
+  "peso_kg": 90.522,
+  "valor": 5237.51
+ },
+ "31260310433218000193550010000010271731495516": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 09:59:00",
+  "status": "valida",
+  "peso_kg": 396.351,
+  "valor": 3216.31
+ },
+ "41260310433218000274550020000020131838327178": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 13:50:00",
+  "status": "cancelada",
+  "peso_kg": 324.195,
+  "valor": 3458.99
+ },
+ "41260310433218000274550020000020141169272159": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 19:58:00",
+  "status": "cancelada",
+  "peso_kg": 868.778,
+  "valor": 5282.18
+ },
+ "31260310433218000193550010000010281969341223": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 09:00:00",
+  "status": "valida",
+  "peso_kg": 788.427,
+  "valor": 5592.78
+ },
+ "41260310433218000274550020000020151458593075": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 04:39:00",
+  "status": "valida",
+  "peso_kg": 119.73,
+  "valor": 4066.52
+ },
+ "41260310433218000274550020000020161158582415": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 03:00:00",
+  "status": "inutilizada",
+  "peso_kg": 153.459,
+  "valor": 2808.46
+ },
+ "31260310433218000193550010000010291554409196": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 00:31:00",
+  "status": "valida",
+  "peso_kg": 82.934,
+  "valor": 1958.99
+ },
+ "31260310433218000193550010000010301138852343": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 01:06:00",
+  "status": "valida",
+  "peso_kg": 196.513,
+  "valor": 1650.71
+ },
+ "31260310433218000193550010000010311931761174": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 13:31:00",
+  "status": "valida",
+  "peso_kg": 282.645,
+  "valor": 1652.96
+ },
+ "41260310433218000274550020000020171957569000": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 12:06:00",
+  "status": "valida",
+  "peso_kg": 941.578,
+  "valor": 6548.96
+ },
+ "41260310433218000274550020000020181408859677": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 11:53:00",
+  "status": "valida",
+  "peso_kg": 132.562,
+  "valor": 910.87
+ },
+ "41260310433218000274550020000020191823980834": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 22:15:00",
+  "status": "valida",
+  "peso_kg": 452.273,
+  "valor": 3502.64
+ },
+ "41260310433218000274550020000020201590934968": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 16:30:00",
+  "status": "valida",
+  "peso_kg": 290.292,
+  "valor": 2438.45
+ },
+ "41260310433218000274550020000020211732805540": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 23:59:00",
+  "status": "valida",
+  "peso_kg": 731.71,
+  "valor": 4152.46
+ },
+ "31260310433218000193550010000010321999911365": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 02:19:00",
+  "status": "valida",
+  "peso_kg": 497.243,
+  "valor": 2600.14
+ },
+ "41260310433218000274550020000020221830769707": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 02:16:00",
+  "status": "valida",
+  "peso_kg": 169.675,
+  "valor": 3781.48
+ },
+ "31260310433218000193550010000010331540985168": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 10:58:00",
+  "status": "valida",
+  "peso_kg": 84.913,
+  "valor": 713.27
+ },
+ "41260310433218000274550020000020231890345013": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 11:03:00",
+  "status": "valida",
+  "peso_kg": 146.373,
+  "valor": 2932.76
+ },
+ "31260310433218000193550010000010341799879977": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 18:14:00",
+  "status": "valida",
+  "peso_kg": 119.837,
+  "valor": 4661.66
+ },
+ "31260310433218000193550010000010351188157203": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 22:31:00",
+  "status": "valida",
+  "peso_kg": 365.978,
+  "valor": 4038.45
+ },
+ "31260310433218000193550010000010361635166590": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 03:44:00",
+  "status": "valida",
+  "peso_kg": 433.164,
+  "valor": 2877.58
+ },
+ "31260310433218000193550010000010371853878670": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 16:35:00",
+  "status": "valida",
+  "peso_kg": 300.055,
+  "valor": 3143.48
+ },
+ "41260310433218000274550020000020241852915417": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 14:19:00",
+  "status": "valida",
+  "peso_kg": 170.423,
+  "valor": 5159.67
+ },
+ "31260310433218000193550010000010381388746468": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 05:03:00",
+  "status": "valida",
+  "peso_kg": 95.984,
+  "valor": 1826.45
+ },
+ "41260310433218000274550020000020251787659579": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 23:40:00",
+  "status": "valida",
+  "peso_kg": 313.249,
+  "valor": 2631.29
+ },
+ "41260310433218000274550020000020261442952473": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 09:20:00",
+  "status": "valida",
+  "peso_kg": 9.1,
+  "valor": 191.1
+ },
+ "31260310433218000193550010000010391685484031": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 20:43:00",
+  "status": "valida",
+  "peso_kg": 472.985,
+  "valor": 2033.84
+ },
+ "31260310433218000193550010000010401717531600": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 17:32:00",
+  "status": "valida",
+  "peso_kg": 422.24,
+  "valor": 2153.42
+ },
+ "31260310433218000193550010000010411253043960": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 06:48:00",
+  "status": "valida",
+  "peso_kg": 126.942,
+  "valor": 1283.31
+ },
+ "41260310433218000274550020000020271963009025": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 16:38:00",
+  "status": "valida",
+  "peso_kg": 437.273,
+  "valor": 5234.16
+ },
+ "41260310433218000274550020000020281925450280": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 21:32:00",
+  "status": "valida",
+  "peso_kg": 11.62,
+  "valor": 244.02
+ },
+ "31260310433218000193550010000010421213184641": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 12:51:00",
+  "status": "valida",
+  "peso_kg": 218.953,
+  "valor": 2796.56
+ },
+ "31260310433218000193550010000010431990685099": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 05:56:00",
+  "status": "valida",
+  "peso_kg": 256.949,
+  "valor": 5115.07
+ },
+ "31260310433218000193550010000010441782481696": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 14:13:00",
+  "status": "valida",
+  "peso_kg": 174.903,
+  "valor": 3527.43
+ },
+ "31260310433218000193550010000010451275891041": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 17:32:00",
+  "status": "valida",
+  "peso_kg": 402.482,
+  "valor": 2278.45
+ },
+ "31260310433218000193550010000010461729502085": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 12:16:00",
+  "status": "valida",
+  "peso_kg": 250.502,
+  "valor": 3009.14
+ },
+ "31260310433218000193550010000010471466134282": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 22:44:00",
+  "status": "valida",
+  "peso_kg": 106.732,
+  "valor": 4949.87
+ },
+ "31260310433218000193550010000010481527731592": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 20:28:00",
+  "status": "inutilizada",
+  "peso_kg": 223.462,
+  "valor": 6810.32
+ },
+ "31260310433218000193550010000010491917225036": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 16:21:00",
+  "status": "valida",
+  "peso_kg": 214.16,
+  "valor": 4396.23
+ },
+ "31260310433218000193550010000010501676114690": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 11:58:00",
+  "status": "valida",
+  "peso_kg": 65.201,
+  "valor": 3918.43
+ },
+ "31260310433218000193550010000010511158430916": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 04:01:00",
+  "status": "valida",
+  "peso_kg": 146.54,
+  "valor": 3269.45
+ },
+ "31260310433218000193550010000010521723606293": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 18:41:00",
+  "status": "valida",
+  "peso_kg": 458.844,
+  "valor": 4348.43
+ },
+ "41260310433218000274550020000020291735386414": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 16:16:00",
+  "status": "valida",
+  "peso_kg": 76.895,
+  "valor": 896.31
+ },
+ "41260310433218000274550020000020301765992690": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 23:11:00",
+  "status": "valida",
+  "peso_kg": 709.421,
+  "valor": 3549.64
+ },
+ "41260310433218000274550020000020311571838375": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 03:34:00",
+  "status": "valida",
+  "peso_kg": 387.05,
+  "valor": 2760.07
+ },
+ "31260310433218000193550010000010531965922950": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 00:01:00",
+  "status": "valida",
+  "peso_kg": 83.092,
+  "valor": 1179.91
+ },
+ "41260310433218000274550020000020321435023087": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 00:45:00",
+  "status": "valida",
+  "peso_kg": 65.057,
+  "valor": 719.94
+ },
+ "41260310433218000274550020000020331199390961": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 22:18:00",
+  "status": "valida",
+  "peso_kg": 615.637,
+  "valor": 6984.65
+ },
+ "31260310433218000193550010000010541286397387": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 23:25:00",
+  "status": "denegada",
+  "peso_kg": 451.951,
+  "valor": 1943.39
+ },
+ "31260310433218000193550010000010551742453431": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 02:47:00",
+  "status": "valida",
+  "peso_kg": 116.824,
+  "valor": 1658.9
+ },
+ "31260310433218000193550010000010561680650430": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 09:12:00",
+  "status": "valida",
+  "peso_kg": 184.52,
+  "valor": 3376.65
+ },
+ "41260310433218000274550020000020341924671671": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 01:10:00",
+  "status": "valida",
+  "peso_kg": 168.627,
+  "valor": 3738.96
+ },
+ "31260310433218000193550010000010571455215142": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 16:50:00",
+  "status": "valida",
+  "peso_kg": 709.115,
+  "valor": 4819.79
+ },
+ "41260310433218000274550020000020351635148373": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 12:53:00",
+  "status": "valida",
+  "peso_kg": 199.598,
+  "valor": 858.27
+ },
+ "41260310433218000274550020000020361539476915": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 22:43:00",
+  "status": "valida",
+  "peso_kg": 174.634,
+  "valor": 1588.64
+ },
+ "31260310433218000193550010000010581901976117": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 04:26:00",
+  "status": "valida",
+  "peso_kg": 54.557,
+  "valor": 1609.43
+ },
+ "31260310433218000193550010000010591198692642": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 00:55:00",
+  "status": "valida",
+  "peso_kg": 97.344,
+  "valor": 3469.69
+ },
+ "41260310433218000274550020000020371713359661": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 15:51:00",
+  "status": "valida",
+  "peso_kg": 604.17,
+  "valor": 3970.36
+ },
+ "41260310433218000274550020000020381594401489": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-02 07:17:00",
+  "status": "valida",
+  "peso_kg": 894.671,
+  "valor": 10194.47
+ },
+ "31260310433218000193550010000010601142373224": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-02 11:08:00",
+  "status": "valida",
+  "peso_kg": 894.572,
+  "valor": 7351.19
+ },
+ "31260310433218000193550010000010611559463544": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 16:05:00",
+  "status": "valida",
+  "peso_kg": 30.86,
+  "valor": 2050.67
+ },
+ "41260310433218000274550020000020391829058450": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 05:47:00",
+  "status": "valida",
+  "peso_kg": 149.727,
+  "valor": 2770.28
+ },
+ "31260310433218000193550010000010621421158952": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 06:00:00",
+  "status": "cancelada",
+  "peso_kg": 206.872,
+  "valor": 4012.41
+ },
+ "41260310433218000274550020000020401485533765": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 10:24:00",
+  "status": "valida",
+  "peso_kg": 80.014,
+  "valor": 2360.41
+ },
+ "41260310433218000274550020000020411148774519": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 10:00:00",
+  "status": "valida",
+  "peso_kg": 90.62,
+  "valor": 3027.97
+ },
+ "31260310433218000193550010000010631466195730": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 14:59:00",
+  "status": "valida",
+  "peso_kg": 560.937,
+  "valor": 3468.21
+ },
+ "41260310433218000274550020000020421637989272": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 08:28:00",
+  "status": "valida",
+  "peso_kg": 54.851,
+  "valor": 817.92
+ },
+ "41260310433218000274550020000020431417159952": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 18:49:00",
+  "status": "valida",
+  "peso_kg": 548.272,
+  "valor": 5345.72
+ },
+ "41260310433218000274550020000020441393147116": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 18:20:00",
+  "status": "valida",
+  "peso_kg": 10.78,
+  "valor": 226.38
+ },
+ "31260310433218000193550010000010641320838030": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 09:33:00",
+  "status": "valida",
+  "peso_kg": 766.282,
+  "valor": 6021.59
+ },
+ "41260310433218000274550020000020451392462180": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 19:43:00",
+  "status": "valida",
+  "peso_kg": 222.709,
+  "valor": 6052.3
+ },
+ "41260310433218000274550020000020461702016341": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 02:31:00",
+  "status": "denegada",
+  "peso_kg": 204.638,
+  "valor": 2616.93
+ },
+ "31260310433218000193550010000010651830742164": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 14:54:00",
+  "status": "valida",
+  "peso_kg": 352.551,
+  "valor": 1897.97
+ },
+ "31260310433218000193550010000010661235421273": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 21:08:00",
+  "status": "valida",
+  "peso_kg": 59.648,
+  "valor": 304.2
+ },
+ "41260310433218000274550020000020471528025295": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 05:49:00",
+  "status": "valida",
+  "peso_kg": 295.953,
+  "valor": 1747.5
+ },
+ "41260310433218000274550020000020481611577086": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 18:27:00",
+  "status": "valida",
+  "peso_kg": 425.06,
+  "valor": 5266.07
+ },
+ "31260310433218000193550010000010671372913949": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 00:21:00",
+  "status": "valida",
+  "peso_kg": 466.03,
+  "valor": 6510.0
+ },
+ "41260310433218000274550020000020491384283572": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 20:15:00",
+  "status": "valida",
+  "peso_kg": 5.74,
+  "valor": 120.54
+ },
+ "41260310433218000274550020000020501970699048": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 05:06:00",
+  "status": "valida",
+  "peso_kg": 385.835,
+  "valor": 3783.49
+ },
+ "41260310433218000274550020000020511542737690": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 23:20:00",
+  "status": "valida",
+  "peso_kg": 178.857,
+  "valor": 1775.82
+ },
+ "41260310433218000274550020000020521755407075": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 05:19:00",
+  "status": "cancelada",
+  "peso_kg": 101.493,
+  "valor": 3948.08
+ },
+ "31260310433218000193550010000010681112269460": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 22:34:00",
+  "status": "cancelada",
+  "peso_kg": 808.227,
+  "valor": 7687.91
+ },
+ "41260310433218000274550020000020531340607880": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 03:20:00",
+  "status": "valida",
+  "peso_kg": 699.702,
+  "valor": 5977.98
+ },
+ "31260310433218000193550010000010691977429226": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 21:22:00",
+  "status": "denegada",
+  "peso_kg": 608.769,
+  "valor": 6558.84
+ },
+ "31260310433218000193550010000010701738205689": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 05:40:00",
+  "status": "valida",
+  "peso_kg": 298.132,
+  "valor": 2504.31
+ },
+ "41260310433218000274550020000020541318037038": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 12:06:00",
+  "status": "valida",
+  "peso_kg": 448.206,
+  "valor": 2705.85
+ },
+ "41260310433218000274550020000020551758476819": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 14:41:00",
+  "status": "valida",
+  "peso_kg": 443.529,
+  "valor": 6240.68
+ },
+ "31260310433218000193550010000010711696914374": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 01:15:00",
+  "status": "valida",
+  "peso_kg": 15.039,
+  "valor": 213.55
+ },
+ "31260310433218000193550010000010721617057586": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 12:32:00",
+  "status": "valida",
+  "peso_kg": 326.018,
+  "valor": 3694.73
+ },
+ "41260310433218000274550020000020561938906010": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 00:12:00",
+  "status": "valida",
+  "peso_kg": 117.895,
+  "valor": 4518.45
+ },
+ "31260310433218000193550010000010731369578309": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 06:17:00",
+  "status": "valida",
+  "peso_kg": 912.354,
+  "valor": 4785.41
+ },
+ "31260310433218000193550010000010741381385318": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 14:52:00",
+  "status": "valida",
+  "peso_kg": 48.0,
+  "valor": 2016.0
+ },
+ "31260310433218000193550010000010751743217920": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 06:12:00",
+  "status": "valida",
+  "peso_kg": 310.872,
+  "valor": 5377.21
+ },
+ "41260310433218000274550020000020571242196370": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 14:20:00",
+  "status": "cancelada",
+  "peso_kg": 357.648,
+  "valor": 2106.24
+ },
+ "31260310433218000193550010000010761567518800": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 22:25:00",
+  "status": "cancelada",
+  "peso_kg": 97.829,
+  "valor": 1455.81
+ },
+ "41260310433218000274550020000020581320592328": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 18:33:00",
+  "status": "valida",
+  "peso_kg": 493.986,
+  "valor": 2675.01
+ },
+ "31260310433218000193550010000010771621886555": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 03:19:00",
+  "status": "valida",
+  "peso_kg": 88.73,
+  "valor": 2055.73
+ },
+ "41260310433218000274550020000020591626863644": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 17:25:00",
+  "status": "valida",
+  "peso_kg": 282.347,
+  "valor": 4005.28
+ },
+ "41260310433218000274550020000020601952955867": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 04:18:00",
+  "status": "valida",
+  "peso_kg": 386.748,
+  "valor": 5798.32
+ },
+ "41260310433218000274550020000020611858864087": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 08:24:00",
+  "status": "valida",
+  "peso_kg": 184.245,
+  "valor": 2712.66
+ },
+ "31260310433218000193550010000010781592393530": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 05:16:00",
+  "status": "denegada",
+  "peso_kg": 452.717,
+  "valor": 6277.68
+ },
+ "31260310433218000193550010000010791570608744": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 06:02:00",
+  "status": "valida",
+  "peso_kg": 254.849,
+  "valor": 2812.63
+ },
+ "41260310433218000274550020000020621227809056": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 15:46:00",
+  "status": "valida",
+  "peso_kg": 332.783,
+  "valor": 7122.44
+ },
+ "41260310433218000274550020000020631950440780": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 21:17:00",
+  "status": "valida",
+  "peso_kg": 367.599,
+  "valor": 3081.67
+ },
+ "31260310433218000193550010000010801480632183": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 12:30:00",
+  "status": "cancelada",
+  "peso_kg": 8.0,
+  "valor": 491.82
+ },
+ "41260310433218000274550020000020641972411470": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 22:15:00",
+  "status": "valida",
+  "peso_kg": 416.381,
+  "valor": 3430.35
+ },
+ "31260310433218000193550010000010811386449050": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 07:01:00",
+  "status": "valida",
+  "peso_kg": 98.968,
+  "valor": 3882.2
+ },
+ "31260310433218000193550010000010821501653707": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 02:16:00",
+  "status": "valida",
+  "peso_kg": 71.983,
+  "valor": 1169.74
+ },
+ "41260310433218000274550020000020651391580874": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 14:33:00",
+  "status": "valida",
+  "peso_kg": 292.454,
+  "valor": 4333.48
+ },
+ "41260310433218000274550020000020661136003104": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 18:47:00",
+  "status": "valida",
+  "peso_kg": 154.26,
+  "valor": 3469.29
+ },
+ "31260310433218000193550010000010831277144422": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 12:24:00",
+  "status": "valida",
+  "peso_kg": 491.302,
+  "valor": 3102.96
+ },
+ "41260310433218000274550020000020671210632731": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 02:51:00",
+  "status": "valida",
+  "peso_kg": 199.726,
+  "valor": 4323.77
+ },
+ "31260310433218000193550010000010841683154005": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 21:28:00",
+  "status": "valida",
+  "peso_kg": 96.739,
+  "valor": 812.61
+ },
+ "41260310433218000274550020000020681460729586": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 22:09:00",
+  "status": "valida",
+  "peso_kg": 345.212,
+  "valor": 1484.41
+ },
+ "41260310433218000274550020000020691323984417": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 05:40:00",
+  "status": "valida",
+  "peso_kg": 31.267,
+  "valor": 922.38
+ },
+ "41260310433218000274550020000020701147464186": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 10:03:00",
+  "status": "valida",
+  "peso_kg": 100.322,
+  "valor": 1373.88
+ },
+ "41260310433218000274550020000020711478905861": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 03:56:00",
+  "status": "denegada",
+  "peso_kg": 220.901,
+  "valor": 6993.07
+ },
+ "31260310433218000193550010000010851132091802": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 02:59:00",
+  "status": "valida",
+  "peso_kg": 25.388,
+  "valor": 109.17
+ },
+ "41260310433218000274550020000020721291090454": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 08:01:00",
+  "status": "valida",
+  "peso_kg": 103.863,
+  "valor": 1521.06
+ },
+ "31260310433218000193550010000010861522797804": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 00:27:00",
+  "status": "valida",
+  "peso_kg": 493.878,
+  "valor": 3214.32
+ },
+ "41260310433218000274550020000020731706552830": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 10:32:00",
+  "status": "valida",
+  "peso_kg": 23.126,
+  "valor": 682.22
+ },
+ "41260310433218000274550020000020741577469840": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 00:14:00",
+  "status": "valida",
+  "peso_kg": 85.212,
+  "valor": 3563.15
+ },
+ "31260310433218000193550010000010871599611729": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 02:50:00",
+  "status": "valida",
+  "peso_kg": 120.029,
+  "valor": 4448.66
+ },
+ "41260310433218000274550020000020751765889573": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 13:44:00",
+  "status": "valida",
+  "peso_kg": 549.117,
+  "valor": 3147.18
+ },
+ "41260310433218000274550020000020761962553613": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 23:24:00",
+  "status": "valida",
+  "peso_kg": 27.5,
+  "valor": 1155.0
+ },
+ "31260310433218000193550010000010881139330430": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 23:44:00",
+  "status": "denegada",
+  "peso_kg": 606.522,
+  "valor": 8404.97
+ },
+ "41260310433218000274550020000020771336357914": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 22:57:00",
+  "status": "valida",
+  "peso_kg": 522.256,
+  "valor": 5540.03
+ },
+ "31260310433218000193550010000010891907538126": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 23:58:00",
+  "status": "valida",
+  "peso_kg": 345.509,
+  "valor": 8293.82
+ },
+ "41260310433218000274550020000020781988708660": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 13:22:00",
+  "status": "valida",
+  "peso_kg": 234.136,
+  "valor": 3943.82
+ },
+ "41260310433218000274550020000020791335352972": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 06:03:00",
+  "status": "cancelada",
+  "peso_kg": 562.849,
+  "valor": 4632.22
+ },
+ "31260310433218000193550010000010901765968313": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 08:46:00",
+  "status": "valida",
+  "peso_kg": 370.419,
+  "valor": 1889.14
+ },
+ "41260310433218000274550020000020801381433484": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 00:31:00",
+  "status": "valida",
+  "peso_kg": 132.5,
+  "valor": 6050.64
+ },
+ "41260310433218000274550020000020811973716551": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 16:51:00",
+  "status": "valida",
+  "peso_kg": 38.914,
+  "valor": 1513.75
+ },
+ "31260310433218000193550010000010911553589596": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 08:35:00",
+  "status": "valida",
+  "peso_kg": 467.032,
+  "valor": 4748.62
+ },
+ "41260310433218000274550020000020821306144920": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 15:22:00",
+  "status": "valida",
+  "peso_kg": 417.658,
+  "valor": 4169.7
+ },
+ "41260310433218000274550020000020831620130098": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 05:17:00",
+  "status": "valida",
+  "peso_kg": 552.898,
+  "valor": 4257.97
+ },
+ "31260310433218000193550010000010921801398059": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 13:36:00",
+  "status": "valida",
+  "peso_kg": 605.029,
+  "valor": 7394.99
+ },
+ "31260310433218000193550010000010931269363982": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 10:17:00",
+  "status": "valida",
+  "peso_kg": 1090.018,
+  "valor": 6570.53
+ },
+ "41260310433218000274550020000020841298910326": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 22:33:00",
+  "status": "valida",
+  "peso_kg": 303.774,
+  "valor": 2551.7
+ },
+ "31260310433218000193550010000010941929793706": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 22:27:00",
+  "status": "valida",
+  "peso_kg": 625.036,
+  "valor": 6823.66
+ },
+ "31260310433218000193550010000010951530662164": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 03:33:00",
+  "status": "valida",
+  "peso_kg": 442.208,
+  "valor": 2255.26
+ },
+ "31260310433218000193550010000010961641414379": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 04:38:00",
+  "status": "valida",
+  "peso_kg": 27.168,
+  "valor": 385.79
+ },
+ "31260310433218000193550010000010971777969140": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 03:55:00",
+  "status": "valida",
+  "peso_kg": 32.823,
+  "valor": 1276.81
+ },
+ "41260310433218000274550020000020851221321986": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 00:24:00",
+  "status": "valida",
+  "peso_kg": 103.189,
+  "valor": 1465.28
+ },
+ "41260310433218000274550020000020861111942673": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 18:38:00",
+  "status": "valida",
+  "peso_kg": 131.61,
+  "valor": 4202.33
+ },
+ "41260310433218000274550020000020871726391471": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 10:43:00",
+  "status": "denegada",
+  "peso_kg": 323.289,
+  "valor": 6519.78
+ },
+ "41260310433218000274550020000020881352812624": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 01:05:00",
+  "status": "cancelada",
+  "peso_kg": 146.591,
+  "valor": 5835.69
+ },
+ "41260310433218000274550020000020891621133779": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 13:54:00",
+  "status": "valida",
+  "peso_kg": 202.236,
+  "valor": 1137.15
+ },
+ "31260310433218000193550010000010981271723717": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 04:02:00",
+  "status": "valida",
+  "peso_kg": 73.75,
+  "valor": 428.84
+ },
+ "31260310433218000193550010000010991883260596": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 17:49:00",
+  "status": "valida",
+  "peso_kg": 121.78,
+  "valor": 4073.76
+ },
+ "41260310433218000274550020000020901208463314": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 23:04:00",
+  "status": "valida",
+  "peso_kg": 54.814,
+  "valor": 340.91
+ },
+ "31260310433218000193550010000011001676343979": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 17:48:00",
+  "status": "valida",
+  "peso_kg": 389.55,
+  "valor": 7642.03
+ },
+ "31260310433218000193550010000011011890100426": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 04:35:00",
+  "status": "valida",
+  "peso_kg": 164.564,
+  "valor": 1382.34
+ },
+ "41260310433218000274550020000020911321302891": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 23:12:00",
+  "status": "valida",
+  "peso_kg": 162.234,
+  "valor": 3417.79
+ },
+ "41260310433218000274550020000020921165212310": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 17:38:00",
+  "status": "valida",
+  "peso_kg": 84.321,
+  "valor": 3280.09
+ },
+ "31260310433218000193550010000011021989169581": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 21:43:00",
+  "status": "valida",
+  "peso_kg": 12.46,
+  "valor": 744.66
+ },
+ "31260310433218000193550010000011031496413679": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 02:59:00",
+  "status": "valida",
+  "peso_kg": 331.822,
+  "valor": 2076.43
+ },
+ "31260310433218000193550010000011041454502603": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-03 12:03:00",
+  "status": "valida",
+  "peso_kg": 86.415,
+  "valor": 3510.34
+ },
+ "31260310433218000193550010000011051934575270": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 03:28:00",
+  "status": "valida",
+  "peso_kg": 269.767,
+  "valor": 1160.0
+ },
+ "41260310433218000274550020000020931251741942": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-03 09:50:00",
+  "status": "valida",
+  "peso_kg": 16.927,
+  "valor": 240.36
+ },
+ "41260310433218000274550020000020941275362612": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 18:40:00",
+  "status": "valida",
+  "peso_kg": 33.0,
+  "valor": 1386.0
+ },
+ "31260310433218000193550010000011061554059439": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 18:25:00",
+  "status": "valida",
+  "peso_kg": 49.261,
+  "valor": 975.87
+ },
+ "31260310433218000193550010000011071765498375": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 15:00:00",
+  "status": "valida",
+  "peso_kg": 172.471,
+  "valor": 3037.06
+ },
+ "41260310433218000274550020000020951237765532": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 07:18:00",
+  "status": "valida",
+  "peso_kg": 96.055,
+  "valor": 2833.62
+ },
+ "41260310433218000274550020000020961172846956": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 13:12:00",
+  "status": "valida",
+  "peso_kg": 144.585,
+  "valor": 2558.26
+ },
+ "31260310433218000193550010000011081760917814": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 22:48:00",
+  "status": "valida",
+  "peso_kg": 349.382,
+  "valor": 4244.79
+ },
+ "41260310433218000274550020000020971776722532": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 17:03:00",
+  "status": "valida",
+  "peso_kg": 68.621,
+  "valor": 2669.36
+ },
+ "31260310433218000193550010000011091238987773": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 09:11:00",
+  "status": "valida",
+  "peso_kg": 454.969,
+  "valor": 4994.2
+ },
+ "41260310433218000274550020000020981521323931": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 16:20:00",
+  "status": "valida",
+  "peso_kg": 236.726,
+  "valor": 3490.65
+ },
+ "41260310433218000274550020000020991117140291": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 14:12:00",
+  "status": "valida",
+  "peso_kg": 239.887,
+  "valor": 1429.76
+ },
+ "41260310433218000274550020000021001143360891": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 05:14:00",
+  "status": "valida",
+  "peso_kg": 536.4,
+  "valor": 2735.64
+ },
+ "41260310433218000274550020000021011841049099": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 01:20:00",
+  "status": "valida",
+  "peso_kg": 446.956,
+  "valor": 3175.14
+ },
+ "31260310433218000193550010000011101789673571": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 22:57:00",
+  "status": "valida",
+  "peso_kg": 276.819,
+  "valor": 5119.74
+ },
+ "41260310433218000274550020000021021838412495": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 16:46:00",
+  "status": "valida",
+  "peso_kg": 412.534,
+  "valor": 3655.4
+ },
+ "31260310433218000193550010000011111812023563": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 17:33:00",
+  "status": "valida",
+  "peso_kg": 81.928,
+  "valor": 2416.88
+ },
+ "41260310433218000274550020000021031617913910": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 21:56:00",
+  "status": "valida",
+  "peso_kg": 353.773,
+  "valor": 4986.4
+ },
+ "31260310433218000193550010000011121999708570": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 10:35:00",
+  "status": "valida",
+  "peso_kg": 480.348,
+  "valor": 4706.37
+ },
+ "41260310433218000274550020000021041945863290": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 03:41:00",
+  "status": "valida",
+  "peso_kg": 48.0,
+  "valor": 2016.0
+ },
+ "31260310433218000193550010000011131242452717": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 04:34:00",
+  "status": "valida",
+  "peso_kg": 178.36,
+  "valor": 3007.74
+ },
+ "31260310433218000193550010000011141114965557": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 02:22:00",
+  "status": "valida",
+  "peso_kg": 39.0,
+  "valor": 1638.0
+ },
+ "31260310433218000193550010000011151291200020": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 04:44:00",
+  "status": "valida",
+  "peso_kg": 797.18,
+  "valor": 10282.22
+ },
+ "31260310433218000193550010000011161753895896": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 05:54:00",
+  "status": "valida",
+  "peso_kg": 184.758,
+  "valor": 3790.1
+ },
+ "41260310433218000274550020000021051326344123": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 14:18:00",
+  "status": "valida",
+  "peso_kg": 117.292,
+  "valor": 2443.95
+ },
+ "31260310433218000193550010000011171476636333": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 08:23:00",
+  "status": "valida",
+  "peso_kg": 75.699,
+  "valor": 531.22
+ },
+ "31260310433218000193550010000011181824342368": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 16:16:00",
+  "status": "valida",
+  "peso_kg": 782.673,
+  "valor": 3827.88
+ },
+ "31260310433218000193550010000011191322591440": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 17:28:00",
+  "status": "valida",
+  "peso_kg": 380.909,
+  "valor": 2520.8
+ },
+ "41260310433218000274550020000021061162327300": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 03:45:00",
+  "status": "valida",
+  "peso_kg": 456.582,
+  "valor": 4537.1
+ },
+ "31260310433218000193550010000011201399170318": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 13:25:00",
+  "status": "valida",
+  "peso_kg": 259.59,
+  "valor": 2015.72
+ },
+ "31260310433218000193550010000011211543220175": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 14:04:00",
+  "status": "valida",
+  "peso_kg": 82.344,
+  "valor": 2550.13
+ },
+ "31260310433218000193550010000011221904444046": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 13:55:00",
+  "status": "valida",
+  "peso_kg": 251.719,
+  "valor": 3313.46
+ },
+ "41260310433218000274550020000021071708637329": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 01:50:00",
+  "status": "valida",
+  "peso_kg": 245.386,
+  "valor": 7878.92
+ },
+ "31260310433218000193550010000011231909969969": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 22:13:00",
+  "status": "valida",
+  "peso_kg": 437.64,
+  "valor": 8237.38
+ },
+ "41260310433218000274550020000021081212498050": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 10:58:00",
+  "status": "valida",
+  "peso_kg": 603.797,
+  "valor": 7180.92
+ },
+ "41260310433218000274550020000021091469851095": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 17:26:00",
+  "status": "valida",
+  "peso_kg": 418.983,
+  "valor": 6580.74
+ },
+ "31260310433218000193550010000011241637623747": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 04:40:00",
+  "status": "valida",
+  "peso_kg": 49.747,
+  "valor": 706.41
+ },
+ "31260310433218000193550010000011251597726483": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 23:47:00",
+  "status": "valida",
+  "peso_kg": 481.741,
+  "valor": 4508.87
+ },
+ "31260310433218000193550010000011261148400430": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 18:30:00",
+  "status": "valida",
+  "peso_kg": 14.987,
+  "valor": 212.82
+ },
+ "31260310433218000193550010000011271221018568": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 08:10:00",
+  "status": "valida",
+  "peso_kg": 269.731,
+  "valor": 2310.15
+ },
+ "41260310433218000274550020000021101445870201": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 15:45:00",
+  "status": "valida",
+  "peso_kg": 95.076,
+  "valor": 4259.54
+ },
+ "41260310433218000274550020000021111818939829": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 15:48:00",
+  "status": "valida",
+  "peso_kg": 507.232,
+  "valor": 3956.15
+ },
+ "31260310433218000193550010000011281415225590": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 10:24:00",
+  "status": "valida",
+  "peso_kg": 290.786,
+  "valor": 2604.02
+ },
+ "31260310433218000193550010000011291156724607": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 16:14:00",
+  "status": "valida",
+  "peso_kg": 317.423,
+  "valor": 2970.5
+ },
+ "41260310433218000274550020000021121713638125": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 22:58:00",
+  "status": "valida",
+  "peso_kg": 273.783,
+  "valor": 4650.48
+ },
+ "41260310433218000274550020000021131589999378": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 02:21:00",
+  "status": "valida",
+  "peso_kg": 150.765,
+  "valor": 1752.99
+ },
+ "31260310433218000193550010000011301337038277": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 07:09:00",
+  "status": "valida",
+  "peso_kg": 10.487,
+  "valor": 849.06
+ },
+ "41260310433218000274550020000021141852089087": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 02:08:00",
+  "status": "valida",
+  "peso_kg": 703.887,
+  "valor": 5105.07
+ },
+ "41260310433218000274550020000021151324916070": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 09:28:00",
+  "status": "valida",
+  "peso_kg": 147.305,
+  "valor": 3731.55
+ },
+ "41260310433218000274550020000021161131005765": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 23:08:00",
+  "status": "valida",
+  "peso_kg": 53.74,
+  "valor": 3029.15
+ },
+ "31260310433218000193550010000011311515230265": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 02:39:00",
+  "status": "valida",
+  "peso_kg": 227.065,
+  "valor": 3101.79
+ },
+ "41260310433218000274550020000021171823819520": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 09:18:00",
+  "status": "valida",
+  "peso_kg": 347.206,
+  "valor": 3737.89
+ },
+ "41260310433218000274550020000021181760259481": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 07:08:00",
+  "status": "valida",
+  "peso_kg": 383.753,
+  "valor": 5600.95
+ },
+ "31260310433218000193550010000011321464891186": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 17:27:00",
+  "status": "valida",
+  "peso_kg": 91.555,
+  "valor": 3446.34
+ },
+ "31260310433218000193550010000011331478647727": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 21:44:00",
+  "status": "valida",
+  "peso_kg": 45.49,
+  "valor": 2862.9
+ },
+ "31260310433218000193550010000011341195810918": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 02:41:00",
+  "status": "denegada",
+  "peso_kg": 122.862,
+  "valor": 5201.59
+ },
+ "31260310433218000193550010000011351734615706": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 10:33:00",
+  "status": "valida",
+  "peso_kg": 122.436,
+  "valor": 2303.62
+ },
+ "31260310433218000193550010000011361535554631": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 03:24:00",
+  "status": "valida",
+  "peso_kg": 80.039,
+  "valor": 773.41
+ },
+ "41260310433218000274550020000021191939038413": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 19:57:00",
+  "status": "valida",
+  "peso_kg": 61.102,
+  "valor": 1949.51
+ },
+ "41260310433218000274550020000021201436478791": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 22:17:00",
+  "status": "valida",
+  "peso_kg": 1111.888,
+  "valor": 5933.2
+ },
+ "41260310433218000274550020000021211779084976": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 17:53:00",
+  "status": "valida",
+  "peso_kg": 492.164,
+  "valor": 2116.31
+ },
+ "41260310433218000274550020000021221922807341": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 09:37:00",
+  "status": "valida",
+  "peso_kg": 171.715,
+  "valor": 3452.73
+ },
+ "41260310433218000274550020000021231937479008": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 15:58:00",
+  "status": "valida",
+  "peso_kg": 140.979,
+  "valor": 4431.52
+ },
+ "41260310433218000274550020000021241178248968": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 19:05:00",
+  "status": "valida",
+  "peso_kg": 50.82,
+  "valor": 426.89
+ },
+ "31260310433218000193550010000011371849503301": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 10:03:00",
+  "status": "valida",
+  "peso_kg": 192.632,
+  "valor": 2524.48
+ },
+ "41260310433218000274550020000021251598913481": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 12:32:00",
+  "status": "valida",
+  "peso_kg": 814.59,
+  "valor": 6876.87
+ },
+ "41260310433218000274550020000021261388330290": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 23:47:00",
+  "status": "valida",
+  "peso_kg": 102.395,
+  "valor": 2618.62
+ },
+ "31260310433218000193550010000011381535794297": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 19:20:00",
+  "status": "cancelada",
+  "peso_kg": 33.457,
+  "valor": 281.04
+ },
+ "41260310433218000274550020000021271404295307": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 22:03:00",
+  "status": "denegada",
+  "peso_kg": 298.532,
+  "valor": 4252.99
+ },
+ "31260310433218000193550010000011391629250573": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 00:56:00",
+  "status": "valida",
+  "peso_kg": 11.62,
+  "valor": 244.02
+ },
+ "31260310433218000193550010000011401850674624": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 15:12:00",
+  "status": "valida",
+  "peso_kg": 143.196,
+  "valor": 2059.07
+ },
+ "31260310433218000193550010000011411979676225": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 06:08:00",
+  "status": "valida",
+  "peso_kg": 618.513,
+  "valor": 3646.64
+ },
+ "31260310433218000193550010000011421933495365": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 11:08:00",
+  "status": "valida",
+  "peso_kg": 526.127,
+  "valor": 6032.45
+ },
+ "41260310433218000274550020000021281996924175": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 09:24:00",
+  "status": "valida",
+  "peso_kg": 96.387,
+  "valor": 809.65
+ },
+ "31260310433218000193550010000011431989838885": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 00:37:00",
+  "status": "denegada",
+  "peso_kg": 211.04,
+  "valor": 1772.74
+ },
+ "41260310433218000274550020000021291813448627": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 17:11:00",
+  "status": "valida",
+  "peso_kg": 273.393,
+  "valor": 4132.04
+ },
+ "31260310433218000193550010000011441139548452": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 13:36:00",
+  "status": "valida",
+  "peso_kg": 512.177,
+  "valor": 4544.24
+ },
+ "41260310433218000274550020000021301377504910": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 22:14:00",
+  "status": "valida",
+  "peso_kg": 84.181,
+  "valor": 1421.75
+ },
+ "31260310433218000193550010000011451815328878": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 05:30:00",
+  "status": "valida",
+  "peso_kg": 41.649,
+  "valor": 2922.15
+ },
+ "31260310433218000193550010000011461276557890": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 08:49:00",
+  "status": "valida",
+  "peso_kg": 530.382,
+  "valor": 5652.05
+ },
+ "41260310433218000274550020000021311319830352": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 09:20:00",
+  "status": "valida",
+  "peso_kg": 525.17,
+  "valor": 9536.09
+ },
+ "31260310433218000193550010000011471915949771": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 20:42:00",
+  "status": "valida",
+  "peso_kg": 492.614,
+  "valor": 4689.22
+ },
+ "41260310433218000274550020000021321483748067": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 01:11:00",
+  "status": "valida",
+  "peso_kg": 732.764,
+  "valor": 7909.43
+ },
+ "41260310433218000274550020000021331133436470": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 03:41:00",
+  "status": "valida",
+  "peso_kg": 85.466,
+  "valor": 3219.38
+ },
+ "41260310433218000274550020000021341786747088": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 02:33:00",
+  "status": "valida",
+  "peso_kg": 115.306,
+  "valor": 5702.89
+ },
+ "41260310433218000274550020000021351276591644": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 09:00:00",
+  "status": "valida",
+  "peso_kg": 653.334,
+  "valor": 8652.98
+ },
+ "31260310433218000193550010000011481473276863": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 05:20:00",
+  "status": "valida",
+  "peso_kg": 172.791,
+  "valor": 2304.74
+ },
+ "41260310433218000274550020000021361481689100": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 09:45:00",
+  "status": "valida",
+  "peso_kg": 134.346,
+  "valor": 3118.72
+ },
+ "41260310433218000274550020000021371381649686": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 15:57:00",
+  "status": "valida",
+  "peso_kg": 60.621,
+  "valor": 1788.32
+ },
+ "41260310433218000274550020000021381936504133": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 05:48:00",
+  "status": "valida",
+  "peso_kg": 278.418,
+  "valor": 1944.79
+ },
+ "31260310433218000193550010000011491477992960": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 23:26:00",
+  "status": "valida",
+  "peso_kg": 210.908,
+  "valor": 2732.59
+ },
+ "41260310433218000274550020000021391966579740": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 07:36:00",
+  "status": "valida",
+  "peso_kg": 840.808,
+  "valor": 7007.13
+ },
+ "31260310433218000193550010000011501940888620": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 02:24:00",
+  "status": "valida",
+  "peso_kg": 309.053,
+  "valor": 4237.28
+ },
+ "31260310433218000193550010000011511371251891": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 20:38:00",
+  "status": "valida",
+  "peso_kg": 10.36,
+  "valor": 217.56
+ },
+ "31260310433218000193550010000011521278129957": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 15:48:00",
+  "status": "valida",
+  "peso_kg": 436.252,
+  "valor": 4946.72
+ },
+ "41260310433218000274550020000021401530678343": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 10:34:00",
+  "status": "valida",
+  "peso_kg": 144.461,
+  "valor": 1211.34
+ },
+ "41260310433218000274550020000021411195620560": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 09:55:00",
+  "status": "valida",
+  "peso_kg": 101.684,
+  "valor": 3761.42
+ },
+ "41260310433218000274550020000021421546048586": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 12:19:00",
+  "status": "valida",
+  "peso_kg": 11.48,
+  "valor": 241.08
+ },
+ "41260310433218000274550020000021431292899978": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-04 10:49:00",
+  "status": "valida",
+  "peso_kg": 379.799,
+  "valor": 2881.82
+ },
+ "31260310433218000193550010000011531537374941": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 21:49:00",
+  "status": "valida",
+  "peso_kg": 555.108,
+  "valor": 5515.4
+ },
+ "31260310433218000193550010000011541870662473": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 21:19:00",
+  "status": "valida",
+  "peso_kg": 984.507,
+  "valor": 6183.64
+ },
+ "31260310433218000193550010000011551300274901": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-04 18:16:00",
+  "status": "valida",
+  "peso_kg": 222.736,
+  "valor": 5995.25
+ },
+ "41260310433218000274550020000021441183766036": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 12:01:00",
+  "status": "valida",
+  "peso_kg": 85.886,
+  "valor": 3340.97
+ },
+ "41260310433218000274550020000021451613771525": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 19:08:00",
+  "status": "valida",
+  "peso_kg": 557.254,
+  "valor": 3033.03
+ },
+ "31260310433218000193550010000011561293268007": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 20:16:00",
+  "status": "valida",
+  "peso_kg": 78.858,
+  "valor": 2511.53
+ },
+ "41260310433218000274550020000021461616355350": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 14:40:00",
+  "status": "valida",
+  "peso_kg": 785.923,
+  "valor": 7648.59
+ },
+ "31260310433218000193550010000011571475031670": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 04:59:00",
+  "status": "valida",
+  "peso_kg": 483.763,
+  "valor": 2467.19
+ },
+ "31260310433218000193550010000011581114473233": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 16:07:00",
+  "status": "valida",
+  "peso_kg": 954.074,
+  "valor": 5658.58
+ },
+ "31260310433218000193550010000011591270216711": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 21:24:00",
+  "status": "valida",
+  "peso_kg": 181.047,
+  "valor": 2320.35
+ },
+ "31260310433218000193550010000011601144413350": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 16:00:00",
+  "status": "valida",
+  "peso_kg": 62.034,
+  "valor": 2182.88
+ },
+ "41260310433218000274550020000021471255685004": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 00:30:00",
+  "status": "valida",
+  "peso_kg": 851.501,
+  "valor": 6159.61
+ },
+ "31260310433218000193550010000011611955536213": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 05:04:00",
+  "status": "valida",
+  "peso_kg": 340.023,
+  "valor": 3892.31
+ },
+ "31260310433218000193550010000011621116054338": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 08:09:00",
+  "status": "cancelada",
+  "peso_kg": 7.56,
+  "valor": 158.76
+ },
+ "31260310433218000193550010000011631263463949": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 17:53:00",
+  "status": "valida",
+  "peso_kg": 153.564,
+  "valor": 2592.33
+ },
+ "41260310433218000274550020000021481996009631": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 18:48:00",
+  "status": "valida",
+  "peso_kg": 32.768,
+  "valor": 275.25
+ },
+ "41260310433218000274550020000021491919133320": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 10:25:00",
+  "status": "inutilizada",
+  "peso_kg": 410.344,
+  "valor": 3859.63
+ },
+ "31260310433218000193550010000011641624098512": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 18:20:00",
+  "status": "valida",
+  "peso_kg": 315.104,
+  "valor": 5791.09
+ },
+ "41260310433218000274550020000021501581732023": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 05:08:00",
+  "status": "valida",
+  "peso_kg": 315.094,
+  "valor": 4547.84
+ },
+ "31260310433218000193550010000011651752974002": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 13:07:00",
+  "status": "valida",
+  "peso_kg": 164.847,
+  "valor": 5075.19
+ },
+ "31260310433218000193550010000011661553278232": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 20:57:00",
+  "status": "valida",
+  "peso_kg": 478.31,
+  "valor": 2239.1
+ },
+ "31260310433218000193550010000011671167052487": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 06:47:00",
+  "status": "valida",
+  "peso_kg": 12.32,
+  "valor": 258.72
+ },
+ "31260310433218000193550010000011681672051341": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 23:27:00",
+  "status": "valida",
+  "peso_kg": 848.755,
+  "valor": 8519.73
+ },
+ "31260310433218000193550010000011691154625135": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 05:55:00",
+  "status": "valida",
+  "peso_kg": 122.478,
+  "valor": 3328.14
+ },
+ "41260310433218000274550020000021511421120957": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 14:01:00",
+  "status": "valida",
+  "peso_kg": 87.478,
+  "valor": 1242.19
+ },
+ "31260310433218000193550010000011701228424694": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 05:02:00",
+  "status": "valida",
+  "peso_kg": 22.5,
+  "valor": 1209.6
+ },
+ "31260310433218000193550010000011711172514631": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 07:44:00",
+  "status": "valida",
+  "peso_kg": 84.143,
+  "valor": 809.47
+ },
+ "31260310433218000193550010000011721408785649": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 12:33:00",
+  "status": "valida",
+  "peso_kg": 429.321,
+  "valor": 2189.54
+ },
+ "31260310433218000193550010000011731710678415": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 06:24:00",
+  "status": "cancelada",
+  "peso_kg": 220.98,
+  "valor": 1050.17
+ },
+ "41260310433218000274550020000021521395082450": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 01:51:00",
+  "status": "valida",
+  "peso_kg": 490.256,
+  "valor": 4570.89
+ },
+ "31260310433218000193550010000011741877747485": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 03:24:00",
+  "status": "valida",
+  "peso_kg": 179.49,
+  "valor": 4894.37
+ },
+ "31260310433218000193550010000011751211523550": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 11:06:00",
+  "status": "valida",
+  "peso_kg": 562.662,
+  "valor": 3597.81
+ },
+ "31260310433218000193550010000011761348229965": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 13:55:00",
+  "status": "valida",
+  "peso_kg": 49.261,
+  "valor": 1453.2
+ },
+ "31260310433218000193550010000011771932760885": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 08:22:00",
+  "status": "valida",
+  "peso_kg": 48.833,
+  "valor": 209.98
+ },
+ "31260310433218000193550010000011781285765126": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 10:29:00",
+  "status": "valida",
+  "peso_kg": 11.76,
+  "valor": 246.96
+ },
+ "41260310433218000274550020000021531471978178": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 14:13:00",
+  "status": "valida",
+  "peso_kg": 790.161,
+  "valor": 5259.79
+ },
+ "31260310433218000193550010000011791217183823": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 03:48:00",
+  "status": "valida",
+  "peso_kg": 82.555,
+  "valor": 1238.89
+ },
+ "41260310433218000274550020000021541277204135": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 16:14:00",
+  "status": "valida",
+  "peso_kg": 205.782,
+  "valor": 4877.22
+ },
+ "41260310433218000274550020000021551277105991": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 16:40:00",
+  "status": "valida",
+  "peso_kg": 344.799,
+  "valor": 2137.2
+ },
+ "31260310433218000193550010000011801994367830": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 18:49:00",
+  "status": "valida",
+  "peso_kg": 119.284,
+  "valor": 4640.15
+ },
+ "41260310433218000274550020000021561600517955": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 09:31:00",
+  "status": "valida",
+  "peso_kg": 78.839,
+  "valor": 2566.45
+ },
+ "41260310433218000274550020000021571736072138": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 12:02:00",
+  "status": "valida",
+  "peso_kg": 73.803,
+  "valor": 1141.3
+ },
+ "31260310433218000193550010000011811538041665": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 21:34:00",
+  "status": "valida",
+  "peso_kg": 265.071,
+  "valor": 1771.86
+ },
+ "41260310433218000274550020000021581175225833": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 15:43:00",
+  "status": "valida",
+  "peso_kg": 676.888,
+  "valor": 4723.95
+ },
+ "41260310433218000274550020000021591287324571": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 14:04:00",
+  "status": "valida",
+  "peso_kg": 55.315,
+  "valor": 2341.37
+ },
+ "31260310433218000193550010000011821488510885": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 02:30:00",
+  "status": "valida",
+  "peso_kg": 272.786,
+  "valor": 2335.58
+ },
+ "41260310433218000274550020000021601428498245": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 18:00:00",
+  "status": "valida",
+  "peso_kg": 219.681,
+  "valor": 4146.21
+ },
+ "41260310433218000274550020000021611296141920": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 20:59:00",
+  "status": "valida",
+  "peso_kg": 102.562,
+  "valor": 1782.77
+ },
+ "31260310433218000193550010000011831226847367": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 10:07:00",
+  "status": "valida",
+  "peso_kg": 386.251,
+  "valor": 3162.87
+ },
+ "31260310433218000193550010000011841396773515": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 04:35:00",
+  "status": "inutilizada",
+  "peso_kg": 34.0,
+  "valor": 1428.0
+ },
+ "41260310433218000274550020000021621902150423": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 03:32:00",
+  "status": "valida",
+  "peso_kg": 163.841,
+  "valor": 1876.83
+ },
+ "41260310433218000274550020000021631363537847": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 07:43:00",
+  "status": "inutilizada",
+  "peso_kg": 3.5,
+  "valor": 73.5
+ },
+ "31260310433218000193550010000011851348009964": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 10:24:00",
+  "status": "valida",
+  "peso_kg": 196.244,
+  "valor": 1866.01
+ },
+ "31260310433218000193550010000011861330550431": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 11:48:00",
+  "status": "valida",
+  "peso_kg": 520.75,
+  "valor": 2655.82
+ },
+ "41260310433218000274550020000021641387593698": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 14:14:00",
+  "status": "valida",
+  "peso_kg": 638.366,
+  "valor": 7744.32
+ },
+ "41260310433218000274550020000021651403162185": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 14:34:00",
+  "status": "valida",
+  "peso_kg": 418.168,
+  "valor": 4675.71
+ },
+ "31260310433218000193550010000011871554503701": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 23:23:00",
+  "status": "valida",
+  "peso_kg": 937.167,
+  "valor": 5519.24
+ },
+ "41260310433218000274550020000021661280668318": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 17:43:00",
+  "status": "valida",
+  "peso_kg": 62.286,
+  "valor": 1837.44
+ },
+ "31260310433218000193550010000011881797863611": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 18:16:00",
+  "status": "cancelada",
+  "peso_kg": 489.419,
+  "valor": 3186.27
+ },
+ "31260310433218000193550010000011891605110382": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 01:22:00",
+  "status": "valida",
+  "peso_kg": 69.017,
+  "valor": 980.04
+ },
+ "41260310433218000274550020000021671863504556": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 08:52:00",
+  "status": "cancelada",
+  "peso_kg": 364.269,
+  "valor": 5724.88
+ },
+ "41260310433218000274550020000021681136104350": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 16:57:00",
+  "status": "cancelada",
+  "peso_kg": 434.626,
+  "valor": 4288.94
+ },
+ "41260310433218000274550020000021691457849811": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 14:11:00",
+  "status": "valida",
+  "peso_kg": 326.372,
+  "valor": 1403.4
+ },
+ "41260310433218000274550020000021701555722108": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 18:23:00",
+  "status": "valida",
+  "peso_kg": 626.258,
+  "valor": 7435.65
+ },
+ "31260310433218000193550010000011901227149307": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 16:52:00",
+  "status": "valida",
+  "peso_kg": 183.822,
+  "valor": 7535.75
+ },
+ "31260310433218000193550010000011911792864275": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 17:42:00",
+  "status": "valida",
+  "peso_kg": 75.659,
+  "valor": 1341.9
+ },
+ "41260310433218000274550020000021711301960977": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 11:06:00",
+  "status": "valida",
+  "peso_kg": 453.739,
+  "valor": 5978.85
+ },
+ "41260310433218000274550020000021721666424487": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 14:26:00",
+  "status": "inutilizada",
+  "peso_kg": 143.956,
+  "valor": 3032.85
+ },
+ "41260310433218000274550020000021731587793185": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 13:56:00",
+  "status": "valida",
+  "peso_kg": 690.307,
+  "valor": 7315.9
+ },
+ "31260310433218000193550010000011921520652224": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 22:05:00",
+  "status": "valida",
+  "peso_kg": 620.55,
+  "valor": 3730.68
+ },
+ "31260310433218000193550010000011931587207688": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 09:28:00",
+  "status": "valida",
+  "peso_kg": 189.619,
+  "valor": 1660.05
+ },
+ "31260310433218000193550010000011941110557706": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 13:37:00",
+  "status": "valida",
+  "peso_kg": 379.838,
+  "valor": 8793.57
+ },
+ "31260310433218000193550010000011951732288013": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 15:23:00",
+  "status": "valida",
+  "peso_kg": 63.76,
+  "valor": 2924.82
+ },
+ "31260310433218000193550010000011961282659897": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 17:56:00",
+  "status": "valida",
+  "peso_kg": 475.316,
+  "valor": 6435.96
+ },
+ "41260310433218000274550020000021741279193826": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 19:32:00",
+  "status": "valida",
+  "peso_kg": 327.809,
+  "valor": 5289.87
+ },
+ "31260310433218000193550010000011971366108392": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 14:53:00",
+  "status": "valida",
+  "peso_kg": 667.436,
+  "valor": 5975.09
+ },
+ "41260310433218000274550020000021751763235601": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 14:44:00",
+  "status": "valida",
+  "peso_kg": 303.065,
+  "valor": 2892.48
+ },
+ "31260310433218000193550010000011981295881180": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 02:58:00",
+  "status": "valida",
+  "peso_kg": 489.271,
+  "valor": 3447.55
+ },
+ "41260310433218000274550020000021761178856026": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 05:30:00",
+  "status": "cancelada",
+  "peso_kg": 116.229,
+  "valor": 1906.23
+ },
+ "41260310433218000274550020000021771597815180": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 02:44:00",
+  "status": "valida",
+  "peso_kg": 34.934,
+  "valor": 496.06
+ },
+ "41260310433218000274550020000021781520463350": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 21:59:00",
+  "status": "valida",
+  "peso_kg": 758.368,
+  "valor": 5086.6
+ },
+ "41260310433218000274550020000021791173238814": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 22:32:00",
+  "status": "valida",
+  "peso_kg": 1093.16,
+  "valor": 8642.54
+ },
+ "41260310433218000274550020000021801342470981": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 00:50:00",
+  "status": "valida",
+  "peso_kg": 630.506,
+  "valor": 4008.3
+ },
+ "31260310433218000193550010000011991242364634": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 06:04:00",
+  "status": "valida",
+  "peso_kg": 14.0,
+  "valor": 294.0
+ },
+ "31260310433218000193550010000012001536094157": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 14:43:00",
+  "status": "valida",
+  "peso_kg": 184.747,
+  "valor": 1551.87
+ },
+ "31260310433218000193550010000012011219706524": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 13:48:00",
+  "status": "valida",
+  "peso_kg": 43.52,
+  "valor": 1554.42
+ },
+ "31260310433218000193550010000012021593192205": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 21:38:00",
+  "status": "valida",
+  "peso_kg": 614.649,
+  "valor": 4140.54
+ },
+ "31260310433218000193550010000012031944980569": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 15:59:00",
+  "status": "valida",
+  "peso_kg": 393.394,
+  "valor": 3684.22
+ },
+ "41260310433218000274550020000021811986984903": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 03:55:00",
+  "status": "valida",
+  "peso_kg": 18.103,
+  "valor": 704.21
+ },
+ "41260310433218000274550020000021821999607566": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 03:45:00",
+  "status": "valida",
+  "peso_kg": 297.635,
+  "valor": 4997.32
+ },
+ "41260310433218000274550020000021831907839640": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 19:42:00",
+  "status": "cancelada",
+  "peso_kg": 110.876,
+  "valor": 1876.81
+ },
+ "31260310433218000193550010000012041822873242": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 06:41:00",
+  "status": "valida",
+  "peso_kg": 229.763,
+  "valor": 4726.84
+ },
+ "31260310433218000193550010000012051946121819": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 21:45:00",
+  "status": "valida",
+  "peso_kg": 874.907,
+  "valor": 8279.45
+ },
+ "41260310433218000274550020000021841967287862": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 06:37:00",
+  "status": "valida",
+  "peso_kg": 177.724,
+  "valor": 6612.43
+ },
+ "41260310433218000274550020000021851659501461": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 13:39:00",
+  "status": "valida",
+  "peso_kg": 110.748,
+  "valor": 745.41
+ },
+ "41260310433218000274550020000021861163148540": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-06 05:30:00",
+  "status": "valida",
+  "peso_kg": 175.634,
+  "valor": 1238.75
+ },
+ "41260310433218000274550020000021871847622747": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 07:47:00",
+  "status": "valida",
+  "peso_kg": 111.563,
+  "valor": 4339.8
+ },
+ "31260310433218000193550010000012061780894225": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 07:42:00",
+  "status": "valida",
+  "peso_kg": 352.592,
+  "valor": 1798.22
+ },
+ "41260310433218000274550020000021881265065613": {
+  "filial": "Distribuidora Exemplo - Filial PR",
+  "emissao": "2026-03-05 22:21:00",
+  "status": "valida",
+  "peso_kg": 422.412,
+  "valor": 4875.93
+ },
+ "31260310433218000193550010000012071654868722": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-06 03:19:00",
+  "status": "denegada",
+  "peso_kg": 631.891,
+  "valor": 6745.09
+ },
+ "31260310433218000193550010000012081986073450": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 20:37:00",
+  "status": "valida",
+  "peso_kg": 229.642,
+  "valor": 1928.99
+ },
+ "31260310433218000193550010000012091919266436": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 16:00:00",
+  "status": "valida",
+  "peso_kg": 1142.907,
+  "valor": 7077.54
+ },
+ "31260310433218000193550010000012101799725154": {
+  "filial": "Distribuidora Exemplo - Matriz MG",
+  "emissao": "2026-03-05 12:19:00",
+  "status": "valida",
+  "peso_kg": 107.387,
+  "valor": 4409.61
+ }
+}

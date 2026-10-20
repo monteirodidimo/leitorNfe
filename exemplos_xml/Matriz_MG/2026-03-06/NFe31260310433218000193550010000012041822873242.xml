@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000012041822873242" versao="4.00">
+<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>1</serie><nNF>1204</nNF><dhEmi>2026-03-06T06:41:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>18.393</qCom><uTrib>KG</uTrib><qTrib>18.393</qTrib><vProd>261.18</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>5</qCom><uTrib>KG</uTrib><qTrib>152.149</qTrib><vProd>775.96</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>66</qCom><uTrib>UN</uTrib><qTrib>66</qTrib><vProd>1386.00</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>59.221</qCom><uTrib>KG</uTrib><qTrib>59.221</qTrib><vProd>2303.70</vProd></prod></det>
+<total><ICMSTot><vNF>4726.84</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50389 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000012041822873242</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

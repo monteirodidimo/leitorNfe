@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020301765992690" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2030</nNF><dhEmi>2026-03-02T23:11:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>14.077</qCom><uTrib>KG</uTrib><qTrib>14.077</qTrib><vProd>415.27</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>20</qCom><uTrib>KG</uTrib><qTrib>514.853</qTrib><vProd>2213.87</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>180.491</qTrib><vProd>920.50</vProd></prod></det>
+<total><ICMSTot><vNF>3549.64</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50084 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020301765992690</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

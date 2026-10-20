@@ -1,0 +1,17 @@
+# notas de sessao locais: citam o projeto original e nunca devem ser publicadas
+CONVERSA.md
+HANDOFF*.md
+.claude/
+
+# dados gerados e arquivos do programa em uso
+notas.db
+config.json
+
+# python e build do .exe
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+build/
+dist/
+*.spec

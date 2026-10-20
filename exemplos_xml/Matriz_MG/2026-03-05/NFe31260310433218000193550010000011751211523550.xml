@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000011751211523550" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1175</nNF><dhEmi>2026-03-05T11:06:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>19600133000127</CNPJ><xNome>Restaurante Sabor Exemplo Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>8</qCom><uTrib>KG</uTrib><qTrib>242.126</qTrib><vProd>1234.84</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>15.434</qCom><uTrib>KG</uTrib><qTrib>15.434</qTrib><vProd>455.30</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>60.175</qCom><uTrib>KG</uTrib><qTrib>60.175</qTrib><vProd>854.48</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>244.927</qTrib><vProd>1053.19</vProd></prod></det>
+<total><ICMSTot><vNF>3597.81</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50329 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000011751211523550</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

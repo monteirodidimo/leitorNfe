@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000011421933495365" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1142</nNF><dhEmi>2026-03-04T11:08:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>97.492</qCom><uTrib>KG</uTrib><qTrib>97.492</qTrib><vProd>3792.44</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>40.089</qCom><uTrib>KG</uTrib><qTrib>40.089</qTrib><vProd>569.26</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>16</qCom><uTrib>KG</uTrib><qTrib>388.546</qTrib><vProd>1670.75</vProd></prod></det>
+<total><ICMSTot><vNF>6032.45</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>552.433</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50271 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000011421933495365</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

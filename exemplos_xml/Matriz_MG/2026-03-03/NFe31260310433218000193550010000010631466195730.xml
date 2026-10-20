@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010631466195730" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1063</nNF><dhEmi>2026-03-03T14:59:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>23511615000188</CNPJ><xNome>Supermercado Amostra Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>79.553</qCom><uTrib>KG</uTrib><qTrib>79.553</qTrib><vProd>1129.65</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>145.627</qTrib><vProd>626.20</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>335.757</qTrib><vProd>1712.36</vProd></prod></det>
+<total><ICMSTot><vNF>3468.21</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50106 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

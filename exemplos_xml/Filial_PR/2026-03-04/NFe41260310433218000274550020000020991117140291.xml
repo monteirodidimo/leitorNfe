@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020991117140291" versao="4.00">
+<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>2</serie><nNF>2099</nNF><dhEmi>2026-03-04T14:12:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>11.51</qCom><uTrib>KG</uTrib><qTrib>11.51</qTrib><vProd>447.74</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>9</qCom><uTrib>KG</uTrib><qTrib>228.377</qTrib><vProd>982.02</vProd></prod></det>
+<total><ICMSTot><vNF>1429.76</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>251.881</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50210 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020991117140291</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

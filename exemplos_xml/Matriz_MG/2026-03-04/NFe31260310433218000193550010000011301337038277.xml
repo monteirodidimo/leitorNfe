@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000011301337038277" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1130</nNF><dhEmi>2026-03-04T07:09:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>81</qCom><uTrib>UN</uTrib><qTrib>81</qTrib><vProd>238.14</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>10.487</qCom><uTrib>KG</uTrib><qTrib>10.487</qTrib><vProd>148.92</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>22</qCom><uTrib>UN</uTrib><qTrib>22</qTrib><vProd>462.00</vProd></prod></det>
+<total><ICMSTot><vNF>849.06</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>11.011</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50245 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

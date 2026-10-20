@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010861522797804" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1086</nNF><dhEmi>2026-03-04T00:27:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>8</qCom><uTrib>KG</uTrib><qTrib>194.896</qTrib><vProd>838.05</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>7</qCom><uTrib>KG</uTrib><qTrib>205.415</qTrib><vProd>1047.62</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>93.567</qCom><uTrib>KG</uTrib><qTrib>93.567</qTrib><vProd>1328.65</vProd></prod></det>
+<total><ICMSTot><vNF>3214.32</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>518.572</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50160 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000010861522797804</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000021251598913481" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2125</nNF><dhEmi>2026-03-04T12:32:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>18</qCom><uTrib>KG</uTrib><qTrib>442.276</qTrib><vProd>1901.79</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>18</qCom><uTrib>KG</uTrib><qTrib>304.594</qTrib><vProd>2558.59</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>34.22</qCom><uTrib>KG</uTrib><qTrib>34.22</qTrib><vProd>1009.49</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>67</qCom><uTrib>UN</uTrib><qTrib>67</qTrib><pesoL>32.83</pesoL><pesoB>33.5</pesoB><vProd>1407.00</vProd></prod></det>
+<total><ICMSTot><vNF>6876.87</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50264 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000021251598913481</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

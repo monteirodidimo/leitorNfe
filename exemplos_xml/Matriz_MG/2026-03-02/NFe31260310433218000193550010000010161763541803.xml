@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010161763541803" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1016</nNF><dhEmi>2026-03-02T13:33:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>94.518</qCom><uTrib>KG</uTrib><qTrib>94.518</qTrib><vProd>2788.28</vProd></prod></det>
+<total><ICMSTot><vNF>2788.28</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>99.244</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50023 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

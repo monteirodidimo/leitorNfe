@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020631950440780" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2063</nNF><dhEmi>2026-03-03T21:17:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>89083863000183</CNPJ><xNome>Mercado Modelo Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>276.352</qTrib><vProd>1188.31</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>3</qCom><uTrib>KG</uTrib><qTrib>91.247</qTrib><vProd>465.36</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>68</qCom><uTrib>UN</uTrib><qTrib>68</qTrib><vProd>1428.00</vProd></prod></det>
+<total><ICMSTot><vNF>3081.67</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50144 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

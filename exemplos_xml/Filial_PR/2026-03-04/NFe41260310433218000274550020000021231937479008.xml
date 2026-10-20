@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000021231937479008" versao="4.00">
+<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>2</serie><nNF>2123</nNF><dhEmi>2026-03-04T15:58:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>111.974</qCom><uTrib>KG</uTrib><qTrib>111.974</qTrib><vProd>3303.23</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>29.005</qCom><uTrib>KG</uTrib><qTrib>29.005</qTrib><vProd>1128.29</vProd></prod></det>
+<total><ICMSTot><vNF>4431.52</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50261 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

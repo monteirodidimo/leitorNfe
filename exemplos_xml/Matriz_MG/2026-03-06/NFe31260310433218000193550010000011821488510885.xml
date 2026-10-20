@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000011821488510885" versao="4.00">
+<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>1</serie><nNF>1182</nNF><dhEmi>2026-03-06T02:30:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>15</qCom><uTrib>KG</uTrib><qTrib>243.409</qTrib><vProd>2044.64</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>1</qCom><uTrib>KG</uTrib><qTrib>29.377</qTrib><vProd>149.82</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>48</qCom><uTrib>UN</uTrib><qTrib>48</qTrib><vProd>141.12</vProd></prod></det>
+<total><ICMSTot><vNF>2335.58</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50343 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000011821488510885</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

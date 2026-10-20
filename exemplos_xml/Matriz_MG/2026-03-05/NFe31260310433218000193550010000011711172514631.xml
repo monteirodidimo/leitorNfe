@@ -1,0 +1,11 @@
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000011711172514631" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1171</nNF><dhEmi>2026-03-05T07:44:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>32.217</qTrib><vProd>270.62</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>11.033</qCom><uTrib>KG</uTrib><qTrib>11.033</qTrib><vProd>156.67</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>78</qCom><uTrib>UN</uTrib><qTrib>78</qTrib><pesoL>10.702</pesoL><pesoB>10.92</pesoB><vProd>229.32</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>1</qCom><uTrib>KG</uTrib><qTrib>29.973</qTrib><vProd>152.86</vProd></prod></det>
+<total><ICMSTot><vNF>809.47</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>88.35</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50324 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe>

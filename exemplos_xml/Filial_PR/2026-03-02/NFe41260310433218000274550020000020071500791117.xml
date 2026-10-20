@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000020071500791117" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2007</nNF><dhEmi>2026-03-02T13:00:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>14</qCom><uTrib>KG</uTrib><qTrib>419.638</qTrib><vProd>2140.15</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>59</qCom><uTrib>UN</uTrib><qTrib>59</qTrib><pesoL>8.095</pesoL><pesoB>8.26</pesoB><vProd>173.46</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>83.101</qCom><uTrib>KG</uTrib><qTrib>83.101</qTrib><vProd>2451.48</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>51.496</qCom><uTrib>KG</uTrib><qTrib>51.496</qTrib><vProd>731.24</vProd></prod></det>
+<total><ICMSTot><vNF>5496.33</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>590.62</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50026 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000020071500791117</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000011471915949771" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1147</nNF><dhEmi>2026-03-04T20:42:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>57.544</qCom><uTrib>KG</uTrib><qTrib>57.544</qTrib><vProd>2238.46</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>33.748</qTrib><vProd>283.48</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>41</qCom><uTrib>UN</uTrib><qTrib>41</qTrib><vProd>120.54</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>13</qCom><uTrib>KG</uTrib><qTrib>401.322</qTrib><vProd>2046.74</vProd></prod></det>
+<total><ICMSTot><vNF>4689.22</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>517.245</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50280 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000011471915949771</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

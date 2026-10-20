@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe31260310433218000193550010000010671372913949" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1067</nNF><dhEmi>2026-03-04T00:21:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
+<dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>49.305</qTrib><vProd>212.01</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>82.472</qCom><uTrib>KG</uTrib><qTrib>82.472</qTrib><vProd>3208.16</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>20</qCom><uTrib>KG</uTrib><qTrib>320.883</qTrib><vProd>2695.42</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>13.37</qCom><uTrib>KG</uTrib><qTrib>13.37</qTrib><vProd>394.41</vProd></prod></det>
+<total><ICMSTot><vNF>6510.00</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50117 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>31260310433218000193550010000010671372913949</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

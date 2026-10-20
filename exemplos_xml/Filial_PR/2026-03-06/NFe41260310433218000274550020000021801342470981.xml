@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000021801342470981" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2180</nNF><dhEmi>2026-03-06T00:50:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>17</qCom><uTrib>KG</uTrib><qTrib>518.166</qTrib><vProd>2642.65</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>98.504</qTrib><vProd>827.43</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>13.836</qCom><uTrib>KG</uTrib><qTrib>13.836</qTrib><vProd>538.22</vProd></prod></det>
+<total><ICMSTot><vNF>4008.30</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<infAdic><infCpl>Pedido: 50380 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000021801342470981</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

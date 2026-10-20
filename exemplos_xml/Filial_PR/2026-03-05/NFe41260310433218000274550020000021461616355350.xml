@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000021461616355350" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2146</nNF><dhEmi>2026-03-05T14:40:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>86.895</qCom><uTrib>KG</uTrib><qTrib>86.895</qTrib><vProd>3380.22</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>9</qCom><uTrib>KG</uTrib><qTrib>147.706</qTrib><vProd>1240.73</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>18</qCom><uTrib>KG</uTrib><qTrib>542.474</qTrib><vProd>2766.62</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>8.848</qCom><uTrib>KG</uTrib><qTrib>8.848</qTrib><vProd>261.02</vProd></prod></det>
+<total><ICMSTot><vNF>7648.59</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>825.219</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50304 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000021461616355350</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>

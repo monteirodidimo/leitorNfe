@@ -1,0 +1,11 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41260310433218000274550020000021281996924175" versao="4.00">
+<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2128</nNF><dhEmi>2026-03-04T09:24:00-03:00</dhEmi></ide>
+<emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
+<dest><CNPJ>19600133000127</CNPJ><xNome>Restaurante Sabor Exemplo Ltda</xNome></dest>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>96.387</qTrib><vProd>809.65</vProd></prod></det>
+<total><ICMSTot><vNF>809.65</vNF></ICMSTot></total>
+<transp><modFrete>0</modFrete><vol><pesoB>101.206</pesoB></vol></transp>
+<infAdic><infCpl>Pedido: 50272 - documento ficticio</infCpl></infAdic>
+</infNFe>
+</NFe><protNFe><infProt><chNFe>41260310433218000274550020000021281996924175</chNFe><cStat>100</cStat></infProt></protNFe></nfeProc>
