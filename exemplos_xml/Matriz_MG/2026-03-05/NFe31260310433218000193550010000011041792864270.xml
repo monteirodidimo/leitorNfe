@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000011041792864270" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1104</nNF><dhEmi>2026-03-05T17:42:00-03:00</dhEmi></ide>
+<ide><natOp>Remessa para deposito fechado</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1104</nNF><dhEmi>2026-03-05T17:42:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>91</qCom><uTrib>UN</uTrib><qTrib>91</qTrib><vProd>267.54</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>75.659</qCom><uTrib>KG</uTrib><qTrib>75.659</qTrib><vProd>1074.36</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>5905</CFOP><uCom>UN</uCom><qCom>91</qCom><uTrib>UN</uTrib><qTrib>91</qTrib><vProd>267.54</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>5905</CFOP><uCom>KG</uCom><qCom>75.659</qCom><uTrib>KG</uTrib><qTrib>75.659</qTrib><vProd>1074.36</vProd></prod></det>
 <total><ICMSTot><vNF>1341.90</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50372 - documento ficticio</infCpl></infAdic>

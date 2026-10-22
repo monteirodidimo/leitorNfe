@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe41260310433218000274550020000020761200482426" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2076</nNF><dhEmi>2026-03-03T09:49:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>2</serie><nNF>2076</nNF><dhEmi>2026-03-03T09:49:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
 <dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>8</qCom><uTrib>KG</uTrib><qTrib>132.4</qTrib><vProd>1112.16</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>48.543</qCom><uTrib>KG</uTrib><qTrib>48.543</qTrib><vProd>1888.32</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>40</qCom><uTrib>UN</uTrib><qTrib>40</qTrib><pesoL>5.488</pesoL><pesoB>5.6</pesoB><vProd>117.60</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>7102</CFOP><uCom>CAX</uCom><qCom>8</qCom><uTrib>KG</uTrib><qTrib>132.4</qTrib><vProd>1112.16</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>7102</CFOP><uCom>KG</uCom><qCom>48.543</qCom><uTrib>KG</uTrib><qTrib>48.543</qTrib><vProd>1888.32</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>7102</CFOP><uCom>UN</uCom><qCom>40</qCom><uTrib>UN</uTrib><qTrib>40</qTrib><pesoL>5.488</pesoL><pesoB>5.6</pesoB><vProd>117.60</vProd></prod></det>
 <total><ICMSTot><vNF>3118.08</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50205 - documento ficticio</infCpl></infAdic>

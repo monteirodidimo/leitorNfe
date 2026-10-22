@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030531553589596" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3053</nNF><dhEmi>2026-03-03T21:35:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3053</nNF><dhEmi>2026-03-03T21:35:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>11.159</qCom><uTrib>KG</uTrib><qTrib>11.159</qTrib><vProd>158.46</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>178.293</qTrib><vProd>1497.66</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>7</qCom><uTrib>KG</uTrib><qTrib>208.857</qTrib><vProd>1065.17</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>68.723</qCom><uTrib>KG</uTrib><qTrib>68.723</qTrib><vProd>2027.33</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>7102</CFOP><uCom>KG</uCom><qCom>11.159</qCom><uTrib>KG</uTrib><qTrib>11.159</qTrib><vProd>158.46</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>7102</CFOP><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>178.293</qTrib><vProd>1497.66</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Arroz Branco Fardo 30kg</xProd><CFOP>7102</CFOP><uCom>CAX</uCom><qCom>7</qCom><uTrib>KG</uTrib><qTrib>208.857</qTrib><vProd>1065.17</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>7102</CFOP><uCom>KG</uCom><qCom>68.723</qCom><uTrib>KG</uTrib><qTrib>68.723</qTrib><vProd>2027.33</vProd></prod></det>
 <total><ICMSTot><vNF>4748.62</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50177 - documento ficticio</infCpl></infAdic>

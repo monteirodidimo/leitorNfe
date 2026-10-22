@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000010071688121378" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1007</nNF><dhEmi>2026-03-02T22:41:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1007</nNF><dhEmi>2026-03-02T22:41:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>4</qCom><uTrib>KG</uTrib><qTrib>67.738</qTrib><vProd>569.00</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>4</qCom><uTrib>KG</uTrib><qTrib>67.738</qTrib><vProd>569.00</vProd></prod></det>
 <total><ICMSTot><vNF>569.00</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>71.125</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50013 - documento ficticio</infCpl></infAdic>

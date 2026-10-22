@@ -1,9 +1,9 @@
 <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000011171799725150" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1117</nNF><dhEmi>2026-03-05T12:19:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1117</nNF><dhEmi>2026-03-05T12:19:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>107.387</qCom><uTrib>KG</uTrib><qTrib>107.387</qTrib><vProd>4177.35</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>79</qCom><uTrib>UN</uTrib><qTrib>79</qTrib><vProd>232.26</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>107.387</qCom><uTrib>KG</uTrib><qTrib>107.387</qTrib><vProd>4177.35</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>79</qCom><uTrib>UN</uTrib><qTrib>79</qTrib><vProd>232.26</vProd></prod></det>
 <total><ICMSTot><vNF>4409.61</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>112.756</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50410 - documento ficticio</infCpl></infAdic>

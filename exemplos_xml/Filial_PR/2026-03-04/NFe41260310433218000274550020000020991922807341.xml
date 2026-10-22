@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe41260310433218000274550020000020991922807341" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2099</nNF><dhEmi>2026-03-04T09:37:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>2</serie><nNF>2099</nNF><dhEmi>2026-03-04T09:37:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
 <dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>80.772</qCom><uTrib>KG</uTrib><qTrib>80.772</qTrib><vProd>2382.77</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>10.034</qCom><uTrib>KG</uTrib><qTrib>10.034</qTrib><vProd>390.32</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>5</qCom><uTrib>KG</uTrib><qTrib>80.909</qTrib><vProd>679.64</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>5102</CFOP><uCom>KG</uCom><qCom>80.772</qCom><uTrib>KG</uTrib><qTrib>80.772</qTrib><vProd>2382.77</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>5102</CFOP><uCom>KG</uCom><qCom>10.034</qCom><uTrib>KG</uTrib><qTrib>10.034</qTrib><vProd>390.32</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>5</qCom><uTrib>KG</uTrib><qTrib>80.909</qTrib><vProd>679.64</vProd></prod></det>
 <total><ICMSTot><vNF>3452.73</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>180.301</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50265 - documento ficticio</infCpl></infAdic>

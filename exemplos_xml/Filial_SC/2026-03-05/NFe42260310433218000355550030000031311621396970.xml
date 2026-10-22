@@ -1,9 +1,9 @@
 <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000031311621396970" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3131</nNF><dhEmi>2026-03-05T14:33:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3131</nNF><dhEmi>2026-03-05T14:33:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>19600133000127</CNPJ><xNome>Restaurante Sabor Exemplo Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>162.133</qTrib><vProd>1361.92</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>107.378</qCom><uTrib>KG</uTrib><qTrib>107.378</qTrib><vProd>1524.77</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>110.327</qCom><uTrib>KG</uTrib><qTrib>110.327</qTrib><vProd>4291.72</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>77.606</qCom><uTrib>KG</uTrib><qTrib>77.606</qTrib><vProd>2289.38</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>162.133</qTrib><vProd>1361.92</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>107.378</qCom><uTrib>KG</uTrib><qTrib>107.378</qTrib><vProd>1524.77</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>110.327</qCom><uTrib>KG</uTrib><qTrib>110.327</qTrib><vProd>4291.72</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>77.606</qCom><uTrib>KG</uTrib><qTrib>77.606</qTrib><vProd>2289.38</vProd></prod></det>
 <total><ICMSTot><vNF>9467.79</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50378 - documento ficticio</infCpl></infAdic>

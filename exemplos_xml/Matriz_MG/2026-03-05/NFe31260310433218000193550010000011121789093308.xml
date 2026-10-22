@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000011121789093308" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1112</nNF><dhEmi>2026-03-05T07:46:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1112</nNF><dhEmi>2026-03-05T07:46:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>89083863000183</CNPJ><xNome>Mercado Modelo Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>98.475</qCom><uTrib>KG</uTrib><qTrib>98.475</qTrib><vProd>2905.01</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>12</qCom><uTrib>KG</uTrib><qTrib>354.705</qTrib><vProd>1809.00</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>3</qCom><uTrib>KG</uTrib><qTrib>76.209</qTrib><vProd>327.70</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>1</qCom><uTrib>KG</uTrib><qTrib>16.118</qTrib><vProd>135.39</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>5102</CFOP><uCom>KG</uCom><qCom>98.475</qCom><uTrib>KG</uTrib><qTrib>98.475</qTrib><vProd>2905.01</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>12</qCom><uTrib>KG</uTrib><qTrib>354.705</qTrib><vProd>1809.00</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>3</qCom><uTrib>KG</uTrib><qTrib>76.209</qTrib><vProd>327.70</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>1</qCom><uTrib>KG</uTrib><qTrib>16.118</qTrib><vProd>135.39</vProd></prod></det>
 <total><ICMSTot><vNF>5177.10</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50396 - documento ficticio</infCpl></infAdic>

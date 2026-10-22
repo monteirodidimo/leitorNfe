@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030431520573236" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3043</nNF><dhEmi>2026-03-03T08:45:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3043</nNF><dhEmi>2026-03-03T08:45:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>27</qCom><uTrib>UN</uTrib><qTrib>27</qTrib><vProd>567.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>96</qCom><uTrib>UN</uTrib><qTrib>96</qTrib><pesoL>13.171</pesoL><pesoB>13.44</pesoB><vProd>282.24</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>27</qCom><uTrib>UN</uTrib><qTrib>27</qTrib><vProd>567.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>96</qCom><uTrib>UN</uTrib><qTrib>96</qTrib><pesoL>13.171</pesoL><pesoB>13.44</pesoB><vProd>282.24</vProd></prod></det>
 <total><ICMSTot><vNF>849.24</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50150 - documento ficticio</infCpl></infAdic>

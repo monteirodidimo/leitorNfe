@@ -1,9 +1,9 @@
 <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030001428579668" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3000</nNF><dhEmi>2026-03-02T16:06:00-03:00</dhEmi></ide>
+<ide><natOp>Remessa para deposito fechado</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3000</nNF><dhEmi>2026-03-02T16:06:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>59.025</qTrib><vProd>301.03</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>50.915</qTrib><vProd>218.93</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>51.134</qCom><uTrib>KG</uTrib><qTrib>51.134</qTrib><vProd>726.10</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><CFOP>6905</CFOP><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>59.025</qTrib><vProd>301.03</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>6905</CFOP><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>50.915</qTrib><vProd>218.93</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>6905</CFOP><uCom>KG</uCom><qCom>51.134</qCom><uTrib>KG</uTrib><qTrib>51.134</qTrib><vProd>726.10</vProd></prod></det>
 <total><ICMSTot><vNF>1246.06</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>169.128</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50001 - documento ficticio</infCpl></infAdic>

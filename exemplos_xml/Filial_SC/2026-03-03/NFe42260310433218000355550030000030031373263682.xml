@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030031373263682" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3003</nNF><dhEmi>2026-03-03T01:51:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3003</nNF><dhEmi>2026-03-03T01:51:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>59407816000187</CNPJ><xNome>Lanchonete Alfa Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>53.711</qCom><uTrib>KG</uTrib><qTrib>53.711</qTrib><vProd>2089.36</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>45</qCom><uTrib>UN</uTrib><qTrib>45</qTrib><pesoL>6.174</pesoL><pesoB>6.3</pesoB><vProd>132.30</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>279.473</qTrib><vProd>1201.73</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>53.711</qCom><uTrib>KG</uTrib><qTrib>53.711</qTrib><vProd>2089.36</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>45</qCom><uTrib>UN</uTrib><qTrib>45</qTrib><pesoL>6.174</pesoL><pesoB>6.3</pesoB><vProd>132.30</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>279.473</qTrib><vProd>1201.73</vProd></prod></det>
 <total><ICMSTot><vNF>3423.39</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50014 - documento ficticio</infCpl></infAdic>

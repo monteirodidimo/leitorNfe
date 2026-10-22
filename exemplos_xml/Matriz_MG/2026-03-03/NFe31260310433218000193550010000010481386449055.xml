@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000010481386449055" versao="4.00">
-<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>1</serie><nNF>1048</nNF><dhEmi>2026-03-03T07:01:00-03:00</dhEmi></ide>
+<ide><natOp>Transferencia entre filiais</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1048</nNF><dhEmi>2026-03-03T07:01:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>11</qCom><uTrib>UN</uTrib><qTrib>11</qTrib><vProd>32.34</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>98.968</qCom><uTrib>KG</uTrib><qTrib>98.968</qTrib><vProd>3849.86</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6152</CFOP><uCom>UN</uCom><qCom>11</qCom><uTrib>UN</uTrib><qTrib>11</qTrib><vProd>32.34</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6152</CFOP><uCom>KG</uCom><qCom>98.968</qCom><uTrib>KG</uTrib><qTrib>98.968</qTrib><vProd>3849.86</vProd></prod></det>
 <total><ICMSTot><vNF>3882.20</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50149 - documento ficticio</infCpl></infAdic>

@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe41260310433218000274550020000020381702016340" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2038</nNF><dhEmi>2026-03-03T02:31:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>2</serie><nNF>2038</nNF><dhEmi>2026-03-03T02:31:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
 <dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>154.436</qTrib><vProd>664.07</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>50.202</qCom><uTrib>KG</uTrib><qTrib>50.202</qTrib><vProd>1952.86</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>154.436</qTrib><vProd>664.07</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>50.202</qCom><uTrib>KG</uTrib><qTrib>50.202</qTrib><vProd>1952.86</vProd></prod></det>
 <total><ICMSTot><vNF>2616.93</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>214.87</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50113 - documento ficticio</infCpl></infAdic>

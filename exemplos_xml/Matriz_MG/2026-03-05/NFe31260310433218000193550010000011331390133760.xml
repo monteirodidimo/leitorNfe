@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000011331390133760" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1133</nNF><dhEmi>2026-03-05T16:05:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1133</nNF><dhEmi>2026-03-05T16:05:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>98</qCom><uTrib>UN</uTrib><qTrib>98</qTrib><pesoL>48.02</pesoL><pesoB>49.0</pesoB><vProd>2058.00</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><CFOP>7102</CFOP><uCom>UN</uCom><qCom>98</qCom><uTrib>UN</uTrib><qTrib>98</qTrib><pesoL>48.02</pesoL><pesoB>49.0</pesoB><vProd>2058.00</vProd></prod></det>
 <total><ICMSTot><vNF>2058.00</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>51.45</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50457 - documento ficticio</infCpl></infAdic>

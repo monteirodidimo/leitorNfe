@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe41260310433218000274550020000021351812781575" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>2135</nNF><dhEmi>2026-03-06T05:40:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>2</serie><nNF>2135</nNF><dhEmi>2026-03-06T05:40:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
 <dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>63.034</qCom><uTrib>KG</uTrib><qTrib>63.034</qTrib><vProd>1859.50</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>248.994</qTrib><vProd>1070.67</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>67.094</qCom><uTrib>KG</uTrib><qTrib>67.094</qTrib><vProd>952.73</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>7102</CFOP><uCom>KG</uCom><qCom>63.034</qCom><uTrib>KG</uTrib><qTrib>63.034</qTrib><vProd>1859.50</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>7102</CFOP><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>248.994</qTrib><vProd>1070.67</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>7102</CFOP><uCom>KG</uCom><qCom>67.094</qCom><uTrib>KG</uTrib><qTrib>67.094</qTrib><vProd>952.73</vProd></prod></det>
 <total><ICMSTot><vNF>3882.90</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>398.078</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50371 - documento ficticio</infCpl></infAdic>

@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030251729628950" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3025</nNF><dhEmi>2026-03-02T19:57:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3025</nNF><dhEmi>2026-03-02T19:57:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>34.431</qCom><uTrib>KG</uTrib><qTrib>34.431</qTrib><vProd>1339.37</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>7102</CFOP><uCom>KG</uCom><qCom>34.431</qCom><uTrib>KG</uTrib><qTrib>34.431</qTrib><vProd>1339.37</vProd></prod></det>
 <total><ICMSTot><vNF>1339.37</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50080 - documento ficticio</infCpl></infAdic>

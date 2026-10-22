@@ -13,6 +13,11 @@ from datetime import datetime
 # Unidades de medida que sao peso, e quanto valem em kg.
 UNIDADES_DE_PESO = {"KG": 1, "KGS": 1, "G": 0.001, "GR": 0.001, "TON": 1000}
 
+# Final do CFOP (os 3 ultimos digitos) que indica venda ou transferencia.
+# O primeiro digito so diz o destino: 5 = mesmo estado, 6 = outro estado, 7 = exterior.
+FINAIS_DE_VENDA = [str(n) for n in range(101, 124)] + ["401", "402", "403", "405"]
+FINAIS_DE_TRANSFERENCIA = ["151", "152", "155", "156", "552", "557"]
+
 
 def listar_xmls(pasta):
     """Devolve o caminho de todos os .xml da pasta e das subpastas."""
@@ -81,6 +86,25 @@ def peso_do_item(prod):
     return None
 
 
+def classificar_operacao(tipo_nf, cfops):
+    """Diz o que a nota representa: venda, transferencia, outras ou entrada.
+
+    So "venda" e faturamento de verdade. As outras tambem geram NF-e, mas nao
+    sao venda: transferencia entre filiais, remessa para deposito, bonificacao,
+    e as notas de entrada (devolucao de cliente, compra).
+    tipo_nf: tag tpNF (0 = entrada, 1 = saida). cfops: lista com o CFOP de cada item.
+    """
+    if tipo_nf == "0" or any(cfop[0] in "123" for cfop in cfops):
+        return "entrada"
+    if any(cfop[1:] in FINAIS_DE_VENDA for cfop in cfops):
+        return "venda"
+    if any(cfop[1:] in FINAIS_DE_TRANSFERENCIA for cfop in cfops):
+        return "transferencia"
+    if not cfops:
+        return "venda"  # nota sem CFOP: conta como venda, como antes
+    return "outras"
+
+
 def ler_nota(raiz):
     info = raiz.find(".//infNFe")
 
@@ -115,6 +139,7 @@ def ler_nota(raiz):
     emissao = datetime.fromisoformat(emissao[:19])
 
     cstat = texto(raiz, ".//infProt/cStat")
+    cfops = [texto(prod, "CFOP") for prod in info.findall(".//det/prod") if texto(prod, "CFOP")]
 
     return {
         "tipo": "nota",
@@ -129,6 +154,7 @@ def ler_nota(raiz):
         "peso_kg": round(peso_total, 3),
         "pedido": pedido.group(1) if pedido else None,
         "cstat": int(cstat) if cstat else None,
+        "operacao": classificar_operacao(texto(info, "ide/tpNF"), cfops),
     }
 
 

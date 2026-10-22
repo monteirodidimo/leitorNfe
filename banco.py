@@ -30,6 +30,7 @@ CREATE TABLE IF NOT EXISTS notas (
     peso_kg           REAL,
     pedido            TEXT,
     cstat             INTEGER,
+    operacao          TEXT,
     arquivo           TEXT
 );
 
@@ -54,6 +55,15 @@ CREATE TABLE IF NOT EXISTS inutilizacoes (
 def conectar(caminho_banco):
     conexao = sqlite3.connect(caminho_banco)
     conexao.executescript(CRIAR_TABELAS)
+
+    # Banco criado por uma versao antiga do programa (sem a coluna 'operacao'):
+    # apaga tudo para que a proxima atualizacao leia os XMLs de novo.
+    colunas = [linha[1] for linha in conexao.execute("PRAGMA table_info(notas)")]
+    if "operacao" not in colunas:
+        conexao.executescript(
+            "DROP TABLE notas; DROP TABLE cancelamentos; DROP TABLE inutilizacoes; DROP TABLE arquivos;"
+        )
+        conexao.executescript(CRIAR_TABELAS)
     return conexao
 
 
@@ -69,7 +79,7 @@ def salvar_documento(conexao, dados, caminho):
         # duas entram aqui; a repeticao e removida na hora de montar o relatorio.
         conexao.execute(
             "INSERT INTO notas VALUES (:chave, :numero, :serie, :emissao, :cnpj_emitente, :filial,"
-            " :nome_destinatario, :valor, :peso_kg, :pedido, :cstat, :arquivo)",
+            " :nome_destinatario, :valor, :peso_kg, :pedido, :cstat, :operacao, :arquivo)",
             dados,
         )
     elif dados["tipo"] == "cancelamento":

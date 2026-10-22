@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe41260310433218000274550020000021021388330299" versao="4.00">
-<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>2</serie><nNF>2102</nNF><dhEmi>2026-03-04T23:47:00-03:00</dhEmi></ide>
+<ide><natOp>Transferencia entre filiais</natOp><tpNF>1</tpNF><mod>55</mod><serie>2</serie><nNF>2102</nNF><dhEmi>2026-03-04T23:47:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000274</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></emit>
 <dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>57.943</qCom><uTrib>KG</uTrib><qTrib>57.943</qTrib><vProd>822.79</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>22.952</qCom><uTrib>KG</uTrib><qTrib>22.952</qTrib><vProd>892.83</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>43</qCom><uTrib>UN</uTrib><qTrib>43</qTrib><pesoL>21.07</pesoL><pesoB>21.5</pesoB><vProd>903.00</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>6152</CFOP><uCom>KG</uCom><qCom>57.943</qCom><uTrib>KG</uTrib><qTrib>57.943</qTrib><vProd>822.79</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6152</CFOP><uCom>KG</uCom><qCom>22.952</qCom><uTrib>KG</uTrib><qTrib>22.952</qTrib><vProd>892.83</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><CFOP>6152</CFOP><uCom>UN</uCom><qCom>43</qCom><uTrib>UN</uTrib><qTrib>43</qTrib><pesoL>21.07</pesoL><pesoB>21.5</pesoB><vProd>903.00</vProd></prod></det>
 <total><ICMSTot><vNF>2618.62</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50270 - documento ficticio</infCpl></infAdic>

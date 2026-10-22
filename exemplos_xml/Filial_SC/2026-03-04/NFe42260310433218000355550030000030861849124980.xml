@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030861849124980" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3086</nNF><dhEmi>2026-03-04T16:31:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3086</nNF><dhEmi>2026-03-04T16:31:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>64</qCom><uTrib>UN</uTrib><qTrib>64</qTrib><vProd>188.16</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>152.632</qTrib><vProd>656.32</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>80</qCom><uTrib>UN</uTrib><qTrib>80</qTrib><pesoL>39.2</pesoL><pesoB>40.0</pesoB><vProd>1680.00</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>5102</CFOP><uCom>UN</uCom><qCom>64</qCom><uTrib>UN</uTrib><qTrib>64</qTrib><vProd>188.16</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>152.632</qTrib><vProd>656.32</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><CFOP>5102</CFOP><uCom>UN</uCom><qCom>80</qCom><uTrib>UN</uTrib><qTrib>80</qTrib><pesoL>39.2</pesoL><pesoB>40.0</pesoB><vProd>1680.00</vProd></prod></det>
 <total><ICMSTot><vNF>2524.48</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50268 - documento ficticio</infCpl></infAdic>

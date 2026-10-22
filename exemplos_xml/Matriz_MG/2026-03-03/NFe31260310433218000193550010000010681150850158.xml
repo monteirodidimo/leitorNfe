@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000010681150850158" versao="4.00">
-<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>1</serie><nNF>1068</nNF><dhEmi>2026-03-03T12:39:00-03:00</dhEmi></ide>
+<ide><natOp>Transferencia entre filiais</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1068</nNF><dhEmi>2026-03-03T12:39:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>3</qCom><uTrib>KG</uTrib><qTrib>49.723</qTrib><vProd>417.67</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>39</qCom><uTrib>UN</uTrib><qTrib>39</qTrib><vProd>114.66</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>6152</CFOP><uCom>CAX</uCom><qCom>3</qCom><uTrib>KG</uTrib><qTrib>49.723</qTrib><vProd>417.67</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6152</CFOP><uCom>UN</uCom><qCom>39</qCom><uTrib>UN</uTrib><qTrib>39</qTrib><vProd>114.66</vProd></prod></det>
 <total><ICMSTot><vNF>532.33</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50221 - documento ficticio</infCpl></infAdic>

@@ -1,9 +1,9 @@
 <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000010271188157201" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1027</nNF><dhEmi>2026-03-02T22:31:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1027</nNF><dhEmi>2026-03-02T22:31:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>47</qCom><uTrib>UN</uTrib><qTrib>47</qTrib><pesoL>23.03</pesoL><pesoB>23.5</pesoB><vProd>987.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>20</qCom><uTrib>KG</uTrib><qTrib>328.618</qTrib><vProd>2760.39</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>99</qCom><uTrib>UN</uTrib><qTrib>99</qTrib><pesoL>13.583</pesoL><pesoB>13.86</pesoB><vProd>291.06</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><CFOP>5102</CFOP><uCom>UN</uCom><qCom>47</qCom><uTrib>UN</uTrib><qTrib>47</qTrib><pesoL>23.03</pesoL><pesoB>23.5</pesoB><vProd>987.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>20</qCom><uTrib>KG</uTrib><qTrib>328.618</qTrib><vProd>2760.39</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>5102</CFOP><uCom>UN</uCom><qCom>99</qCom><uTrib>UN</uTrib><qTrib>99</qTrib><pesoL>13.583</pesoL><pesoB>13.86</pesoB><vProd>291.06</vProd></prod></det>
 <total><ICMSTot><vNF>4038.45</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50061 - documento ficticio</infCpl></infAdic>

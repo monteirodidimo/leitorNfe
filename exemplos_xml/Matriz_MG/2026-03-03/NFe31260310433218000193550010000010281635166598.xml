@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000010281635166598" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1028</nNF><dhEmi>2026-03-03T03:44:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1028</nNF><dhEmi>2026-03-03T03:44:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>42</qCom><uTrib>UN</uTrib><qTrib>42</qTrib><pesoL>20.58</pesoL><pesoB>21.0</pesoB><vProd>882.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>22.553</qCom><uTrib>KG</uTrib><qTrib>22.553</qTrib><vProd>320.25</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>16</qCom><uTrib>KG</uTrib><qTrib>389.611</qTrib><vProd>1675.33</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>42</qCom><uTrib>UN</uTrib><qTrib>42</qTrib><pesoL>20.58</pesoL><pesoB>21.0</pesoB><vProd>882.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>22.553</qCom><uTrib>KG</uTrib><qTrib>22.553</qTrib><vProd>320.25</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>16</qCom><uTrib>KG</uTrib><qTrib>389.611</qTrib><vProd>1675.33</vProd></prod></det>
 <total><ICMSTot><vNF>2877.58</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50062 - documento ficticio</infCpl></infAdic>

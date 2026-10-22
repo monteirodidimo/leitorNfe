@@ -1,9 +1,9 @@
 <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000031001491249047" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3100</nNF><dhEmi>2026-03-05T05:04:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3100</nNF><dhEmi>2026-03-05T05:04:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>301.265</qTrib><vProd>1536.45</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>110.018</qCom><uTrib>KG</uTrib><qTrib>110.018</qTrib><vProd>3245.53</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>256.278</qTrib><vProd>1102.00</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>112.718</qCom><uTrib>KG</uTrib><qTrib>112.718</qTrib><vProd>1600.60</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>301.265</qTrib><vProd>1536.45</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>5102</CFOP><uCom>KG</uCom><qCom>110.018</qCom><uTrib>KG</uTrib><qTrib>110.018</qTrib><vProd>3245.53</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>10</qCom><uTrib>KG</uTrib><qTrib>256.278</qTrib><vProd>1102.00</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>5102</CFOP><uCom>KG</uCom><qCom>112.718</qCom><uTrib>KG</uTrib><qTrib>112.718</qTrib><vProd>1600.60</vProd></prod></det>
 <total><ICMSTot><vNF>7484.58</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50308 - documento ficticio</infCpl></infAdic>

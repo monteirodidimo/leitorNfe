@@ -14,8 +14,8 @@ import pytest
 from openpyxl import load_workbook
 
 from banco import atualizar_banco
-from leitor import peso_do_item
-from relatorio import carregar_notas, exportar, filtrar, resumo
+from leitor import classificar_operacao, peso_do_item
+from relatorio import carregar_notas, exportar, filtrar, resumo, resumo_operacoes
 
 PASTA_EXEMPLOS = Path(__file__).parent.parent / "exemplos_xml"
 CAMINHO_GABARITO = Path(__file__).parent / "gabarito.json"
@@ -77,6 +77,38 @@ def test_nota_repetida_conta_uma_vez(notas):
     assert notas["chave"].is_unique
 
 
+def test_operacao_de_cada_nota(notas, gabarito):
+    calculado = dict(zip(notas["chave"], notas["operacao"], strict=True))
+    esperado = {chave: nota["operacao"] for chave, nota in gabarito.items()}
+    assert calculado == esperado
+
+
+# --- Tipo de operacao pelo CFOP ----------------------------------------------
+
+
+def test_classificacao_pelo_cfop():
+    assert classificar_operacao("1", ["5102"]) == "venda"
+    assert classificar_operacao("1", ["6102", "6403"]) == "venda"
+    assert classificar_operacao("1", ["7102"]) == "venda"  # exportacao
+    assert classificar_operacao("1", ["6152"]) == "transferencia"
+    assert classificar_operacao("1", ["5905"]) == "outras"  # remessa para deposito
+    assert classificar_operacao("1", ["5910"]) == "outras"  # bonificacao
+    assert classificar_operacao("0", ["1202"]) == "entrada"  # devolucao de venda
+
+
+def test_faturamento_conta_so_vendas(notas, gabarito):
+    vendas = [n for n in gabarito.values() if n["status"] == "valida" and n["operacao"] == "venda"]
+    total = resumo(notas).loc["Total"]
+    assert total["Pedidos"] == len(vendas)
+    assert total["Faturamento (R$)"] == pytest.approx(sum(n["valor"] for n in vendas))
+
+
+def test_resumo_de_operacoes_inclui_tudo_que_e_valido(notas):
+    operacoes = resumo_operacoes(notas)
+    assert operacoes["Notas"].sum() == (notas["status"] == "valida").sum()
+    assert set(operacoes["Operação"]) >= {"Vendas", "Transferências entre filiais"}
+
+
 # --- Relatorio ---------------------------------------------------------------
 
 
@@ -122,3 +154,18 @@ def test_excel_exportado_nao_vira_formula(notas, tmp_path):
     exportar(uma_nota, destino)
     celula = load_workbook(destino).active["F2"]
     assert celula.value == "'=1+1"
+
+
+def test_banco_antigo_e_refeito(tmp_path):
+    # Banco de uma versao anterior, sem a coluna 'operacao': deve ser recriado.
+    import sqlite3
+
+    caminho = tmp_path / "notas.db"
+    antigo = sqlite3.connect(caminho)
+    antigo.execute("CREATE TABLE notas (chave TEXT)")
+    antigo.execute("CREATE TABLE arquivos (caminho TEXT PRIMARY KEY, modificado REAL)")
+    antigo.execute("INSERT INTO arquivos VALUES ('x.xml', 1)")
+    antigo.commit()
+    antigo.close()
+    atualizar_banco(PASTA_EXEMPLOS, caminho)
+    assert not carregar_notas(caminho).empty

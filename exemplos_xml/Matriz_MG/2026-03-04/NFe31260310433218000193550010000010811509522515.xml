@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000010811509522515" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1081</nNF><dhEmi>2026-03-04T21:53:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1081</nNF><dhEmi>2026-03-04T21:53:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>7</qCom><uTrib>KG</uTrib><qTrib>206.268</qTrib><vProd>1051.97</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>17</qCom><uTrib>KG</uTrib><qTrib>431.384</qTrib><vProd>1854.95</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>18</qCom><uTrib>KG</uTrib><qTrib>296.698</qTrib><vProd>2492.26</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><CFOP>7102</CFOP><uCom>CAX</uCom><qCom>7</qCom><uTrib>KG</uTrib><qTrib>206.268</qTrib><vProd>1051.97</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>7102</CFOP><uCom>CAX</uCom><qCom>17</qCom><uTrib>KG</uTrib><qTrib>431.384</qTrib><vProd>1854.95</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>7102</CFOP><uCom>CAX</uCom><qCom>18</qCom><uTrib>KG</uTrib><qTrib>296.698</qTrib><vProd>2492.26</vProd></prod></det>
 <total><ICMSTot><vNF>5399.18</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50276 - documento ficticio</infCpl></infAdic>

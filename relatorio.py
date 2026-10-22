@@ -4,12 +4,21 @@ Aqui ficam as regras de negocio que dependem de mais de um arquivo:
 - nota repetida (mesma chave) conta uma vez so;
 - nota com protocolo diferente de 100/150 foi denegada e nao conta;
 - nota cancelada ou com numero inutilizado nao conta;
-- turno diurno vai das 07:00 as 19:59 e o noturno das 20:00 as 06:59.
+- turno diurno vai das 07:00 as 19:59 e o noturno das 20:00 as 06:59;
+- faturamento e so venda: transferencias, remessas e notas de entrada (pelo
+  CFOP, ver leitor.classificar_operacao) aparecem separadas, so no PDF.
 """
 
 import pandas as pd
 
 from banco import carregar_tabelas
+
+NOMES_DAS_OPERACOES = {
+    "venda": "Vendas",
+    "transferencia": "Transferências entre filiais",
+    "outras": "Outras saídas (remessas, bonificações)",
+    "entrada": "Notas de entrada (devoluções)",
+}
 
 
 def calcular_status(notas, cancelamentos, inutilizacoes):
@@ -73,8 +82,24 @@ def filtrar(notas, inicio, fim, filial="Todas", turno="Todos"):
     return notas[filtro]
 
 
-def _totais(notas):
+def vendas_validas(notas):
+    """Faturamento de verdade: notas validas e de venda."""
+    return notas[(notas["status"] == "valida") & (notas["operacao"] == "venda")]
+
+
+def resumo_operacoes(notas):
+    """Notas validas por tipo de operacao: quantidade, peso e valor (vai no PDF)."""
     validas = notas[notas["status"] == "valida"]
+    linhas = []
+    for operacao, nome in NOMES_DAS_OPERACOES.items():
+        grupo = validas[validas["operacao"] == operacao]
+        if not grupo.empty:
+            linhas.append([nome, len(grupo), grupo["peso_kg"].sum(), grupo["valor"].sum()])
+    return pd.DataFrame(linhas, columns=["Operação", "Notas", "Peso (kg)", "Valor (R$)"])
+
+
+def _totais(notas):
+    validas = vendas_validas(notas)
     return {
         "Faturamento (R$)": validas["valor"].sum(),
         "Peso (kg)": validas["peso_kg"].sum(),
@@ -96,8 +121,8 @@ def resumo(notas):
 
 
 def notas_por_hora(notas):
-    """Quantidade de notas validas emitidas em cada hora do dia (0 a 23), por filial."""
-    validas = notas[notas["status"] == "valida"]
+    """Quantidade de vendas validas emitidas em cada hora do dia (0 a 23), por filial."""
+    validas = vendas_validas(notas)
     tabela = validas.pivot_table(index="hora", columns="filial", values="chave", aggfunc="count")
     return tabela.reindex(range(24)).fillna(0).astype(int)
 
@@ -126,6 +151,7 @@ def exportar(notas, caminho):
         "peso_kg": "Peso (kg)",
         "pedido": "Pedido",
         "status": "Status",
+        "operacao": "Operacao",
         "chave": "Chave de acesso",
     }
     tabela = notas[list(colunas)].rename(columns=colunas)

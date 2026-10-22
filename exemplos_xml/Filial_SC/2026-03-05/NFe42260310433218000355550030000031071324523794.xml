@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000031071324523794" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3107</nNF><dhEmi>2026-03-05T06:52:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3107</nNF><dhEmi>2026-03-05T06:52:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>23511615000188</CNPJ><xNome>Supermercado Amostra Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>91.881</qCom><uTrib>KG</uTrib><qTrib>91.881</qTrib><vProd>3574.17</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>4</qCom><uTrib>KG</uTrib><qTrib>97.315</qTrib><vProd>418.45</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>58.362</qCom><uTrib>KG</uTrib><qTrib>58.362</qTrib><vProd>828.74</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>91.881</qCom><uTrib>KG</uTrib><qTrib>91.881</qTrib><vProd>3574.17</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>4</qCom><uTrib>KG</uTrib><qTrib>97.315</qTrib><vProd>418.45</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>58.362</qCom><uTrib>KG</uTrib><qTrib>58.362</qTrib><vProd>828.74</vProd></prod></det>
 <total><ICMSTot><vNF>4821.36</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50317 - documento ficticio</infCpl></infAdic>

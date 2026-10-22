@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000010551907538128" versao="4.00">
-<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>1</serie><nNF>1055</nNF><dhEmi>2026-03-03T23:58:00-03:00</dhEmi></ide>
+<ide><natOp>Transferencia entre filiais</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1055</nNF><dhEmi>2026-03-03T23:58:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Filial PR</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>97.741</qCom><uTrib>KG</uTrib><qTrib>97.741</qTrib><vProd>3802.12</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>44.187</qCom><uTrib>KG</uTrib><qTrib>44.187</qTrib><vProd>627.46</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>101.488</qTrib><vProd>852.50</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>102.093</qCom><uTrib>KG</uTrib><qTrib>102.093</qTrib><vProd>3011.74</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6152</CFOP><uCom>KG</uCom><qCom>97.741</qCom><uTrib>KG</uTrib><qTrib>97.741</qTrib><vProd>3802.12</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>6152</CFOP><uCom>KG</uCom><qCom>44.187</qCom><uTrib>KG</uTrib><qTrib>44.187</qTrib><vProd>627.46</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>6152</CFOP><uCom>CAX</uCom><qCom>6</qCom><uTrib>KG</uTrib><qTrib>101.488</qTrib><vProd>852.50</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>6152</CFOP><uCom>KG</uCom><qCom>102.093</qCom><uTrib>KG</uTrib><qTrib>102.093</qTrib><vProd>3011.74</vProd></prod></det>
 <total><ICMSTot><vNF>8293.82</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50171 - documento ficticio</infCpl></infAdic>

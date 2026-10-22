@@ -19,6 +19,8 @@ Empresas que emitem muitas notas fiscais por dia precisam saber quanto faturaram
 Somar os valores dos XMLs parece simples, mas há armadilhas:
 
 - notas **canceladas** ou com número **inutilizado** não podem entrar na conta;
+- nem toda NF-e é venda: **transferências entre filiais**, **remessas** (depósito, bonificação) e
+  **notas de entrada** (devolução de cliente) também geram nota, mas não são faturamento;
 - a mesma nota pode aparecer **duas vezes** em pastas diferentes;
 - o **peso** de cada item pode vir em kg, em caixas (com o peso real em outro campo) ou só no
   volume de transporte;
@@ -28,12 +30,16 @@ Somar os valores dos XMLs parece simples, mas há armadilhas:
 ## O que o programa mostra
 
 - **Total do período:** faturamento (R$), peso (kg), pedidos e faturamento diurno e noturno.
+  Só entram as **vendas**: o tipo de cada nota é identificado pelo CFOP.
 - **Por filial:** os mesmos números, separados por filial.
 - **Notas emitidas por hora:** gráfico das 24 horas com uma cor por filial. O fundo cinza marca
   o turno noturno.
 - **Filtros:** período com data e hora (pode atravessar a meia-noite, ex.: 22:00 de um dia até
   07:00 do outro), filial e turno.
-- **Exportação** do período filtrado: notas em CSV ou Excel e o relatório em PDF de uma página ([exemplo](docs/exemplo_relatorio.pdf)).
+- **Fora do faturamento** (só no PDF): quantas transferências, remessas e notas de entrada houve
+  no período, com peso e valor, para conferência.
+- **Exportação** do período filtrado: notas em CSV ou Excel (com a coluna Operação) e o relatório
+  em PDF de uma página ([exemplo](docs/exemplo_relatorio.pdf)).
 
 ## Como usar
 
@@ -71,7 +77,9 @@ vêm com o Python.
 | Peso do item | unidade de venda em kg → quantidade; senão unidade tributável em kg → quantidade tributável; senão `pesoB`/`pesoL` do item |
 | Peso da nota | soma dos itens; se nenhum item tem peso, usa o volume de transporte |
 | Turno | diurno das 07:00 às 19:59, noturno das 20:00 às 06:59 |
-| Pedidos | quantidade de notas válidas |
+| Tipo de operação | pelo CFOP de cada item e pela tag `tpNF`: **entrada** (`tpNF` = 0 ou CFOP começando em 1, 2 ou 3), **venda** (CFOP terminado em 101 a 123 ou 401/402/403/405), **transferência** (terminado em 151, 152, 155, 156, 552 ou 557) ou **outras** (remessas, bonificações...) |
+| Faturamento | só notas válidas de **venda**. As outras operações aparecem à parte no PDF |
+| Pedidos | quantidade de vendas válidas |
 
 ## Testes
 
@@ -80,8 +88,8 @@ pip install -r requirements-dev.txt
 pytest
 ```
 
-Os testes leem os `exemplos_xml` e conferem, nota a nota, se o status e o peso calculados batem
-com o `tests/gabarito.json`. Também verificam o peso de cada tipo de item, se o total é a soma
+Os testes leem os `exemplos_xml` e conferem, nota a nota, se o status, o peso e o tipo de
+operação calculados batem com o `tests/gabarito.json`. Também verificam o peso de cada tipo de item, se o total é a soma
 das filiais, o filtro atravessando a meia-noite, arquivos quebrados e a exportação para Excel.
 
 ## Licença

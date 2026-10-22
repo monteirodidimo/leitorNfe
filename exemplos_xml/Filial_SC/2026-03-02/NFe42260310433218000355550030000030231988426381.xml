@@ -1,9 +1,9 @@
 <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030231988426381" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3023</nNF><dhEmi>2026-03-02T07:38:00-03:00</dhEmi></ide>
+<ide><natOp>Devolucao de venda</natOp><tpNF>0</tpNF><mod>55</mod><serie>3</serie><nNF>3023</nNF><dhEmi>2026-03-02T07:38:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>30</qCom><uTrib>UN</uTrib><qTrib>30</qTrib><pesoL>14.7</pesoL><pesoB>15.0</pesoB><vProd>630.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>84.677</qCom><uTrib>KG</uTrib><qTrib>84.677</qTrib><vProd>2497.97</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><CFOP>2202</CFOP><uCom>UN</uCom><qCom>30</qCom><uTrib>UN</uTrib><qTrib>30</qTrib><pesoL>14.7</pesoL><pesoB>15.0</pesoB><vProd>630.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>2202</CFOP><uCom>KG</uCom><qCom>84.677</qCom><uTrib>KG</uTrib><qTrib>84.677</qTrib><vProd>2497.97</vProd></prod></det>
 <total><ICMSTot><vNF>3127.97</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50076 - documento ficticio</infCpl></infAdic>

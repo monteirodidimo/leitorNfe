@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000031611594163558" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3161</nNF><dhEmi>2026-03-05T18:45:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3161</nNF><dhEmi>2026-03-05T18:45:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>19600133000127</CNPJ><xNome>Restaurante Sabor Exemplo Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>12</qCom><uTrib>KG</uTrib><qTrib>362.829</qTrib><vProd>1850.43</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>82.789</qCom><uTrib>KG</uTrib><qTrib>82.789</qTrib><vProd>2442.28</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>99</qCom><uTrib>UN</uTrib><qTrib>99</qTrib><vProd>291.06</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>22.007</qCom><uTrib>KG</uTrib><qTrib>22.007</qTrib><vProd>856.07</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Arroz Branco Fardo 30kg</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>12</qCom><uTrib>KG</uTrib><qTrib>362.829</qTrib><vProd>1850.43</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>82.789</qCom><uTrib>KG</uTrib><qTrib>82.789</qTrib><vProd>2442.28</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>99</qCom><uTrib>UN</uTrib><qTrib>99</qTrib><vProd>291.06</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>22.007</qCom><uTrib>KG</uTrib><qTrib>22.007</qTrib><vProd>856.07</vProd></prod></det>
 <total><ICMSTot><vNF>5439.84</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50469 - documento ficticio</infCpl></infAdic>

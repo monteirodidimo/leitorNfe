@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030741215089691" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3074</nNF><dhEmi>2026-03-04T00:50:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3074</nNF><dhEmi>2026-03-04T00:50:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>23511615000188</CNPJ><xNome>Supermercado Amostra Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>86</qCom><uTrib>UN</uTrib><qTrib>86</qTrib><pesoL>11.799</pesoL><pesoB>12.04</pesoB><vProd>252.84</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><uCom>KG</uCom><qCom>72.004</qCom><uTrib>KG</uTrib><qTrib>72.004</qTrib><vProd>2124.12</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>33</qCom><uTrib>UN</uTrib><qTrib>33</qTrib><vProd>693.00</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>17</qCom><uTrib>KG</uTrib><qTrib>502.794</qTrib><vProd>2564.25</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>86</qCom><uTrib>UN</uTrib><qTrib>86</qTrib><pesoL>11.799</pesoL><pesoB>12.04</pesoB><vProd>252.84</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Presunto Cozido Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>72.004</qCom><uTrib>KG</uTrib><qTrib>72.004</qTrib><vProd>2124.12</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Cafe Torrado Pct 500g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>33</qCom><uTrib>UN</uTrib><qTrib>33</qTrib><vProd>693.00</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Arroz Branco Fardo 30kg</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>17</qCom><uTrib>KG</uTrib><qTrib>502.794</qTrib><vProd>2564.25</vProd></prod></det>
 <total><ICMSTot><vNF>5634.21</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50234 - documento ficticio</infCpl></infAdic>

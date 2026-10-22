@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030011914156570" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3001</nNF><dhEmi>2026-03-03T05:00:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3001</nNF><dhEmi>2026-03-03T05:00:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>12</qCom><uTrib>KG</uTrib><qTrib>197.265</qTrib><vProd>1657.03</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>17</qCom><uTrib>KG</uTrib><qTrib>508.515</qTrib><vProd>2593.43</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>12</qCom><uTrib>KG</uTrib><qTrib>197.265</qTrib><vProd>1657.03</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><CFOP>5102</CFOP><uCom>CAX</uCom><qCom>17</qCom><uTrib>KG</uTrib><qTrib>508.515</qTrib><vProd>2593.43</vProd></prod></det>
 <total><ICMSTot><vNF>4250.46</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>741.069</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50006 - documento ficticio</infCpl></infAdic>

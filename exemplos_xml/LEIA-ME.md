@@ -28,6 +28,9 @@ Notas emitidas depois da meia-noite pelo turno noturno ficam na pasta do dia seg
 - cancelamentos nos três formatos (com retorno, sem retorno e retorno dentro do evento),
   incluindo cancelamento recusado (128), que **não** cancela a nota;
 - inutilizações aceitas (102 ou sem retorno) e recusadas (241);
+- notas que não são venda, identificadas pelo CFOP: transferências entre filiais (5152/6152),
+  remessas para depósito (5905), bonificações (5910) e devoluções de clientes, que são notas de
+  entrada (`tpNF` = 0, CFOP 1202/2202);
 - cliente no exterior (sem CNPJ) e transferência entre a matriz e a filial.
 
 O resultado esperado de cada nota está em `tests/gabarito.json`.

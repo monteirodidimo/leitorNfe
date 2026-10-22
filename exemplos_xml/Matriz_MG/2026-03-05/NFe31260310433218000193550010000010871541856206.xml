@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000010871541856206" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1087</nNF><dhEmi>2026-03-05T00:41:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1087</nNF><dhEmi>2026-03-05T00:41:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>03413164000139</CNPJ><xNome>Cozinha Industrial Gama Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><uCom>KG</uCom><qCom>70.707</qCom><uTrib>KG</uTrib><qTrib>70.707</qTrib><vProd>2750.50</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>90</qCom><uTrib>UN</uTrib><qTrib>90</qTrib><vProd>264.60</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Queijo Mussarela Peca</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>70.707</qCom><uTrib>KG</uTrib><qTrib>70.707</qTrib><vProd>2750.50</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>90</qCom><uTrib>UN</uTrib><qTrib>90</qTrib><vProd>264.60</vProd></prod></det>
 <total><ICMSTot><vNF>3015.10</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>74.242</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50293 - documento ficticio</infCpl></infAdic>

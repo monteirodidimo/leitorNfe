@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000031371534245803" versao="4.00">
-<ide><natOp>Transferencia entre filiais</natOp><mod>55</mod><serie>3</serie><nNF>3137</nNF><dhEmi>2026-03-05T08:48:00-03:00</dhEmi></ide>
+<ide><natOp>Transferencia entre filiais</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3137</nNF><dhEmi>2026-03-05T08:48:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>86</qCom><uTrib>UN</uTrib><qTrib>86</qTrib><vProd>252.84</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>339.301</qTrib><vProd>1730.44</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>20</qCom><uTrib>KG</uTrib><qTrib>513.527</qTrib><vProd>2208.17</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>42.365</qCom><uTrib>KG</uTrib><qTrib>42.365</qTrib><vProd>601.58</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6152</CFOP><uCom>UN</uCom><qCom>86</qCom><uTrib>UN</uTrib><qTrib>86</qTrib><vProd>252.84</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Arroz Branco Fardo 30kg</xProd><CFOP>6152</CFOP><uCom>CAX</uCom><qCom>11</qCom><uTrib>KG</uTrib><qTrib>339.301</qTrib><vProd>1730.44</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>6152</CFOP><uCom>CAX</uCom><qCom>20</qCom><uTrib>KG</uTrib><qTrib>513.527</qTrib><vProd>2208.17</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>6152</CFOP><uCom>KG</uCom><qCom>42.365</qCom><uTrib>KG</uTrib><qTrib>42.365</qTrib><vProd>601.58</vProd></prod></det>
 <total><ICMSTot><vNF>4793.03</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50391 - documento ficticio</infCpl></infAdic>

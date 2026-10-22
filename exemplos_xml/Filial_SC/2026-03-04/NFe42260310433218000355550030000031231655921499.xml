@@ -1,9 +1,9 @@
 <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000031231655921499" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3123</nNF><dhEmi>2026-03-04T14:14:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3123</nNF><dhEmi>2026-03-04T14:14:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>79402654000100</CNPJ><xNome>Padaria Teste Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><uCom>KG</uCom><qCom>28.895</qCom><uTrib>KG</uTrib><qTrib>28.895</qTrib><vProd>410.31</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Batata Pre-Frita Congelada</xProd><CFOP>6102</CFOP><uCom>KG</uCom><qCom>28.895</qCom><uTrib>KG</uTrib><qTrib>28.895</qTrib><vProd>410.31</vProd></prod></det>
 <total><ICMSTot><vNF>410.31</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50350 - documento ficticio</infCpl></infAdic>

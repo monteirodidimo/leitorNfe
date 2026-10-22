@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000011301576019877" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1130</nNF><dhEmi>2026-03-05T18:14:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1130</nNF><dhEmi>2026-03-05T18:14:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><CNPJ>18495931000173</CNPJ><xNome>Hotel Beta Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><uCom>UN</uCom><qCom>48</qCom><uTrib>UN</uTrib><qTrib>48</qTrib><pesoL>23.52</pesoL><pesoB>24.0</pesoB><vProd>1008.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>12</qCom><uTrib>UN</uTrib><qTrib>12</qTrib><vProd>35.28</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>51.266</qTrib><vProd>220.44</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>5</qCom><uTrib>KG</uTrib><qTrib>84.862</qTrib><vProd>712.84</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Cafe Torrado Pct 500g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>48</qCom><uTrib>UN</uTrib><qTrib>48</qTrib><pesoL>23.52</pesoL><pesoB>24.0</pesoB><vProd>1008.00</vProd></prod></det><det nItem="2"><prod><cProd>P002</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>6102</CFOP><uCom>UN</uCom><qCom>12</qCom><uTrib>UN</uTrib><qTrib>12</qTrib><vProd>35.28</vProd></prod></det><det nItem="3"><prod><cProd>P003</cProd><xProd>Farinha de Trigo Fardo 25kg</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>2</qCom><uTrib>KG</uTrib><qTrib>51.266</qTrib><vProd>220.44</vProd></prod></det><det nItem="4"><prod><cProd>P004</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>5</qCom><uTrib>KG</uTrib><qTrib>84.862</qTrib><vProd>712.84</vProd></prod></det>
 <total><ICMSTot><vNF>1976.56</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete></transp>
 <infAdic><infCpl>Pedido: 50448 - documento ficticio</infCpl></infAdic>

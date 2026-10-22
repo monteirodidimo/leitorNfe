@@ -1,9 +1,9 @@
 <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe42260310433218000355550030000030451197967996" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>3</serie><nNF>3045</nNF><dhEmi>2026-03-04T04:02:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>3</serie><nNF>3045</nNF><dhEmi>2026-03-04T04:02:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000355</CNPJ><xNome>Distribuidora Exemplo - Filial SC</xNome></emit>
 <dest><CNPJ>19600133000127</CNPJ><xNome>Restaurante Sabor Exemplo Ltda</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><uCom>CAX</uCom><qCom>7</qCom><uTrib>KG</uTrib><qTrib>112.311</qTrib><vProd>943.41</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Oleo de Soja Cx 18L</xProd><CFOP>6102</CFOP><uCom>CAX</uCom><qCom>7</qCom><uTrib>KG</uTrib><qTrib>112.311</qTrib><vProd>943.41</vProd></prod></det>
 <total><ICMSTot><vNF>943.41</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>117.927</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50154 - documento ficticio</infCpl></infAdic>

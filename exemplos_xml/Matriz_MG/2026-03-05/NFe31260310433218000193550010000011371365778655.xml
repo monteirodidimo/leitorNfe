@@ -1,9 +1,9 @@
 <nfeProc xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe">
 <infNFe Id="NFe31260310433218000193550010000011371365778655" versao="4.00">
-<ide><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>1</serie><nNF>1137</nNF><dhEmi>2026-03-05T22:17:00-03:00</dhEmi></ide>
+<ide><natOp>Venda de mercadoria</natOp><tpNF>1</tpNF><mod>55</mod><serie>1</serie><nNF>1137</nNF><dhEmi>2026-03-05T22:17:00-03:00</dhEmi></ide>
 <emit><CNPJ>10433218000193</CNPJ><xNome>Distribuidora Exemplo - Matriz MG</xNome></emit>
 <dest><idEstrangeiro>EXT001</idEstrangeiro><xNome>Importadora Exemplo Uruguai</xNome></dest>
-<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><uCom>UN</uCom><qCom>82</qCom><uTrib>UN</uTrib><qTrib>82</qTrib><vProd>241.08</vProd></prod></det>
+<det nItem="1"><prod><cProd>P001</cProd><xProd>Biscoito Recheado Pct 140g</xProd><CFOP>7102</CFOP><uCom>UN</uCom><qCom>82</qCom><uTrib>UN</uTrib><qTrib>82</qTrib><vProd>241.08</vProd></prod></det>
 <total><ICMSTot><vNF>241.08</vNF></ICMSTot></total>
 <transp><modFrete>0</modFrete><vol><pesoB>11.48</pesoB></vol></transp>
 <infAdic><infCpl>Pedido: 50472 - documento ficticio</infCpl></infAdic>
